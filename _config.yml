@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Claire Duvallet"
+title                    : "Bipasha Sen"
 title_separator          : "-"
-name                     : &name "Claire Duvallet"
-description              : &description "Claire Duvallet"
-url                      : https://cduvallet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Bipasha Sen"
+description              : &description "Bipasha Sen"
+url                      : https://xmarusic.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cduvallet/cduvallet.github.io"
+repository               : "xmarusic/xmarusic.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Claire Duvallet"
-  avatar           : "claire_duvallet.jpg"
-  bio              : "former grad student in Eric Alm's lab | microbiome, personalized medicine, public health | gender and racial equity in STEM | former Luce Scholar in Cambodia | she/hers"
-  location         : "Boston, MA"
+  name             : "Bipasha Sen"
+  avatar           : "bipasha_sen.jfif"
+  bio              : "Data Scientist at Microsoft India | accessible AI for all"
+  location         : "Hyderabad, India"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=sXD-7J4AAAAJ&hl=en&oi=ao"
-  email            : "cduvallet@gmail.com"
+  email            : "bipasha.sen3195@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cduvallet"
+  github           : "xmarusic"
   google_plus      :
   keybase          :
   instagram        :
