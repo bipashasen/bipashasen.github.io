@@ -1,8 +1,12 @@
 ---
-title: "Career"
+title: "Updates"
 permalink: /career/
 author_profile: true
 ---
+
+17 July 2020 - Talk proposal "Short Term Context-based Fast Multilingual Acoustic Model for Low Resource Languages" accepted for presentation in Microsoft Machine Learning And Data Science (MLADS) Conference. 
+Started working at Microsoft IDC as a Data Scientist 
+Started my internship at Microsoft IDC as a Data Scientist Intern
 
 ## My goal is to **shape the scientific vision** of a company which uses **computational biology or data science to impact society**.
 

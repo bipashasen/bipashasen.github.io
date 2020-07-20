@@ -15,11 +15,11 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/
 
-#  - title: "Portfolio"
-#    url: /portfolio/
-
-  - title: "Career"
+  - title: "Updates"
     url: /career/
+
+#  - title: "Career"
+#    url: /career/
 
   - title: "CV"
     url: /cv/
