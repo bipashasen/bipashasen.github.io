@@ -1,7 +1,6 @@
 ---
 permalink: /
 #layout: archive
-title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -9,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a data scientist at Microsoft India in the Microsoft Search, Assistant and Intelligence (MSAI) team. In my current team, my responsibilities are two fold - 1. Working towards a ranking model for generating insights on meetings for suggesting relevant documents and emails using contextual ranking. 
-1. Building a contextual ranking model for generating insights on meetings for suggesting relevant documents and emails and 
-2. Meeting summarization for the task of Contextual Meeting Segmentation. 
-Before joining as a full time data scientist, I worked as an intern at Microsoft on a project aimed at learning the most efficient order of questions to be asked by a bot in order to maximize human-bot interaction for different classes of users.
-Broadly speaking, I am interested in the application of Machine Learning and specifically Deep Learning to the field of NLP, Computer Vision and Speech Recognition.
+I am currently working as a Data Scientist at Microsoft Indian Development Center as a part of Microsoft Search Assistant and Intelligent (MSAI). We are powering intelligent recommendations on Outlook using deep learning and data science at a scale of 30 million monthly active users. 
 
-I received my Bachelors in Computer Science from University of Mumbai, India. 
+My research interests involve accentuating a human's visual, auditory or interactive experience through machine learning. I am excited by the projects in the domain of deep learning, virtual reality, robotic-vision and robotic-human interaction. 
+
+I am also a musician and love to travel to different countries and experience multiple culture. YouTube link here!
