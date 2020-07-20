@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
+My research areas include the application of Machine Learning and Deep Learning to the field of NLP, Computer Vision and Speech Recognition. 
 My PhD research was motivated by my interest in harnessing large, untargeted biological data to better understand, predict, and monitor human disease.
 More broadly, I'm interested in using **personalized medicine approaches for public health**.
 

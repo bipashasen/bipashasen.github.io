@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Blog"
-    url: /blog/
+#  - title: "Blog"
+#    url: /blog/
 
   - title: "Research"
     url: /research/
 
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
 
 #  - title: "Talks"
 #    url: /talks/
@@ -18,14 +18,14 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
 
+  - title: "Career"
+    url: /career/
+
   - title: "CV"
     url: /cv/
 
 #  - title: "Guide"
 #    url: /markdown/
 
-  - title: "Career"
-    url: /career/
-
-  - title: "Road trip"
+  - title: "Memories"
     url: /travel/
