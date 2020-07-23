@@ -16,6 +16,16 @@
   }
 }
 
+.underline {
+  text-decoration: underline;
+}
+
+.emoji {
+  width: 22px;
+  vertical-align: text-top;
+  margin-left: 5px;
+}
+
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
@@ -37,6 +47,7 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
+  font-weight:200;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -48,15 +59,47 @@
   font-size: $type-size-4;
 }
 
+.big_font {
+  font-size:1.2em;
+  line-height: 30px;
+}
+
+#pose-based-action-recogntion-using-heirarchichal-blstm,
+#anterior-segment-imaging---mit-media-labs-rethinking-engineering-design-execution {
+  margin-top: 0;
+}
+
+.research-img {
+  
+  display: block;
+  text-align: center;
+  margin-bottom: 13px;
+
+  img {
+    height:225px;
+  }
+}
+
+.research-text {
+  font-size: 15px; 
+}
+
 .page__content {
 
+  h1 {
+    font-weight: 200;
+    font-size: 45px;
+  }
+
   h2 {
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    font-size: 21px;
+    font-weight: 200;
+    margin-bottom:10px;
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 16px;
+    line-height: 22px;
   }
 
   /* paragraph indents */
@@ -74,6 +117,7 @@
 
   a {
     text-decoration: underline;
+    color: green;
 
     &:hover {
       text-decoration: underline;

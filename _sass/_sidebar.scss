@@ -114,6 +114,12 @@
     margin-top: 10px;
     margin-bottom: 10px;
   }
+
+  a {
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: 400;
+  }
 }
 .sidebar .author__name {
   font-family: $sans-serif;

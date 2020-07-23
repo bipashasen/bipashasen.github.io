@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Bipasha Sen"
   avatar           : "bipasha_sen.jfif"
-  bio              : "Data Scientist at Microsoft India | accessible AI for all"
+  bio              : "Data Scientist at Microsoft"
   location         : "Hyderabad, India"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=sXD-7J4AAAAJ&hl=en&oi=ao"
+  googlescholar    : 
   email            : "bipasha.sen3195@gmail.com"
   uri              :
   bitbucket        :
