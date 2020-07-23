@@ -36,7 +36,7 @@ Multilingual automatic speech recognition (ASR) systems have led to a major step
 <span class="research-text">
 In this paper we present AiGraph, an enterprise knowledge graph, representing details about how an employee communicates through emails, meetings, and documents. By representing all her communication in the form of a graph, we are able to extract complex insights which are computationally expensive in silo’ed applications. We consider a recommendation application – Meeting Insights – to show power of AiGraph. This application recommends related emails and documents for a given meeting. There are a number of ways in which AiGraph can improve the Meeting Insights – most signifcantly, it can improve the relevance of the system by providing better candidate emails; and features for a ranker to rank these candidates. In this paper we describe various ways to improve relevance of Meeting Insights using AiGraph.</span>
 
-## Sentence Modelling for Contextual Meeting Segementation
+## Sentence Modelling for Contextual Meeting Segmentation
 
 **Natural Language Processing, Summarization**, <a href="/files/CMS___Synapse__V2.pdf" target="_blank">pdf</a>
 
