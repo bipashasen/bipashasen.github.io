@@ -52,6 +52,7 @@ We propose a novel technique of contextual meeting segmentation for the task of 
 ## Anterior Segment Imaging - MIT Media Lab's Rethinking Engineering Design Execution
 
 **Anomaly detection, Eye-Care, Hardware**
+
 <span class="research-text">
 Eye based health care has had limited access to remote and economically challenges communities due to the expensive and bulky device called slit lamps being used for various eye examinations. In an effort against the mentioned challenges, we built a mobile low-cost wearable solid state replacement device. The device has no moving parts and is capable of capturing the anterior segment of the eye from two different angles which is later used for 3D reconstuction. An anomany detection algorithm then adds a preliminary examination on the reconstructed anterior segment of the eye to identify any abnormalities.  </span>
 
@@ -69,11 +70,13 @@ The development of the portal was undertaken in order to have an one stop virtua
 ## SmartShuffle - This is what I wanted!
 
 **Reinforcement Learning, Collaborative Recommendation**, (undergraduate project)
+
 <span class="research-text">
 A prediction model that could predict the songs that a user would want toplay next without requiring his intervention based on the current history. The model works by detecting similarity between songs to learn a predictive model without using metadata such as sound-wave, song-name, genre etc. The idea was that similarity between two songs is quite subjective and differs heavily between individuals when the set of available songs is limited. Two songs with completely different meta properties can be perceived similar by an individual. For the prediction model, I employed an Ensemble Model of Reinforcement Learning bundled with unsupervised Learning algorithms taking the user play history as the input. The skip rate and the duration of the song played were used as reward to devise relationships.</span>
 
 ## The bot will help you shop!
 
 **Reinforcment Learning**, (internship project)
+
 <span class="research-text">
 During my internship at Microsoft, I worked on a virtual shop assitant whose responsibility was to proactively engage the users and assist them towards the task completion. From a a set of curated questions, the agent needed to learn the most efficient order of questions to ask the users in order to maximize the engagement and win rate. I worked on a framework developed by Microsoft Research Lab based on refinforcement learning called multi world testing and implemented the policy, reward to develop and train the model.</span>
