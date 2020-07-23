@@ -67,7 +67,7 @@ Eye based health care has had limited access to remote and economically challeng
 <span class="research-text">
 The development of the portal was undertaken in order to have an one stop virtual environment that compliments the real environment interactions between students and professors. The idea was build a file-sharing <i>network</i> instead of just a portal. The portral had an operating system like user-interface for easy operation with an advanced search features across groups, contacts, within groups, implemented auto-sorting techniques that sorted the documents by their importance at any given point of time, discussion forum, request and push-notification features. <i>This was extensively used by my undergraduate institution at a time having on an average of 5000 active users per month. I was awarded Best Enterpreneur by my institue for my work on thebhaad.com</i></span>
 
-## SmartShuffle - This is what I wanted!
+## SmartShuffle - This is what I wanted to hear!
 
 **Reinforcement Learning, Collaborative Recommendation**, (undergraduate project)
 
