@@ -11,9 +11,9 @@ title                    : "Bipasha Sen"
 title_separator          : "-"
 name                     : &name "Bipasha Sen"
 description              : &description "Bipasha Sen"
-url                      : https://xmarusic.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bipashasen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xmarusic/xmarusic.github.io"
+repository               : "bipashasen/bipashasen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
