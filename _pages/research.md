@@ -12,7 +12,7 @@ author_profile: true
 **Computer Vision**, <a href="/files/PBAR___Synapse.pdf" target="_blank">pdf</a>, (in-review at ACCV)
 
 <span class="research-img">
-	<img src="/images/pbar.jpeg" width="400px">
+	<img src="/images/pbar.jpeg" width="450px">
 </span>
 
 <span class="research-text">
