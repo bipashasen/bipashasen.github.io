@@ -21,7 +21,7 @@ Human body can be represented as an articulation of rigid and hinged joints whic
 **Multilingual Automatic Speech Recognition**, 2020, <a href="/files/MASR___Short.pdf" target="_blank">short</a>, <a href="/files/MASR__Long.pdf" target="_blank">long</a>, (in-review at Interspeech)
 
 <span class="research-img">
-	<img src="/images/masr.jpeg">
+	<img src="/images/masr.svg">
 </span>
 
 <span class="research-text">
@@ -32,7 +32,7 @@ Multilingual automatic speech recognition (ASR) systems have led to a major step
 **Information Retrieval, Recommendation**, 2020 (internal)
 
 <span class="research-img">
-	<img src="/images/pu.jpg" width="500px">
+	<img src="/images/pu.svg" width="500px">
 </span>
 
 <span class="research-text">
