@@ -12,7 +12,7 @@ author_profile: true
 **Computer Vision**, <a href="/files/PBAR___Synapse.pdf" target="_blank">pdf</a>, (in-review at ACCV)
 
 <span class="research-img">
-	<img src="/images/pbar.png">
+	<img src="/images/pbar.jpeg" width="400px">
 </span>
 
 <span class="research-text">
@@ -22,6 +22,10 @@ Human body can be represented as an articulation of rigid and hinged joints whic
 
 **Multilingual Automatic Speech Recognition**, <a href="/files/MASR___Short.pdf" target="_blank">short</a>, <a href="/files/MASR__Long.pdf" target="_blank">long</a>, (in-review at Interspeech)
 
+<span class="research-img">
+	<img src="/images/masr.jpeg">
+</span>
+
 <span class="research-text">
 Multilingual automatic speech recognition (ASR) systems have led to a major step forward towards building robust ASR systems for languages with low resource availability by increasing coverage for individual languages. State of the art multilingual systems are developed with sequential networks such as recurrent neural networks (RNNs) to capture long term temporal dependencies. Training and inference in such sequential models are computationally expensive, which poses a significant challenge in terms of scalability and real-time applications. In this work, an alternate architecture based on short term contextual temporal features learned on convolutional neural networks (CNNs) with a non-sequential discriminative network is proposed. Three low resource Indic languages, Gujarati, Tamil, and Telugu are used to ascertain that our proposed architecture trains 5.5× faster and reduces the inference time by a factor of 26 while maintaining comparable word error rates (WERs) against our baseline RNN.</span>
 
@@ -30,7 +34,7 @@ Multilingual automatic speech recognition (ASR) systems have led to a major step
 **Information Retrieval, Recommendation**, (internal)
 
 <span class="research-img">
-	<img src="/images/pu.png">
+	<img src="/images/pu.jpg" width="500px">
 </span>
 
 <span class="research-text">
@@ -41,7 +45,7 @@ In this paper we present AiGraph, an enterprise knowledge graph, representing de
 **Natural Language Processing, Summarization**, <a href="/files/CMS___Synapse__V2.pdf" target="_blank">pdf</a>
 
 <span class="research-img">
-	<img src="/images/pn.png">
+	<img src="/images/pn.png" width="600px">
 </span>
 
 <span class="research-text">
