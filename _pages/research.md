@@ -1,13 +1,12 @@
 ---
 #layout: archive
-title: ""
 permalink: /projects/
 author_profile: true
 ---
 
-## Pose Based Action Recogntion using Heirarchichal BLSTM
+## An  Approach  Towards  Action  Recognition  using  Part  Based Hierarchical Fusion
 
-**Computer Vision**, <a href="/files/PBAR___Synapse.pdf" target="_blank">pdf</a>, (in-review at ACCV), 2020
+**Computer Vision, Deep Learning**, <a href="https://www.researchgate.net/profile/Aditya_Agarwal8/publication/344587654_EasyChair_Preprint_An_Approach_Towards_Action_Recognition_using_Part_Based_Hierarchical_Fusion_An_Approach_Towards_Action_Recognition_using_Part_Based_Hierarchical_Fusion/links/5f821144299bf1b53e1de51e/EasyChair-Preprint-An-Approach-Towards-Action-Recognition-using-Part-Based-Hierarchical-Fusion-An-Approach-Towards-Action-Recognition-using-Part-Based-Hierarchical-Fusion.pdf" target="_blank">paper</a>, (accepted at ISVC), 2020
 
 <span class="research-img">
 	<img src="/images/pbar.jpeg" width="450px">
@@ -16,9 +15,9 @@ author_profile: true
 <span class="research-text">
 Human body can be represented as an articulation of rigid and hinged joints which can be combined to form the parts of the body. Human actions can be thought of as a collective action of these parts. Hence, learning an effective spatio-temporal representation of the collective motion of these parts is key to action recognition. In this work, we propose an end-to-end pipeline for the task of human action recognition on video sequences using 2D joint trajectories estimated from a pose estimation framework. We use a Hierarchical Bidirectional Long Short Term Memory Network (HBLSTM) to model the spatio-temporal dependencies of the motion by fusing the pose based joint trajectories in a part based hierarchical fashion. <i class="underline">Currently we are extending research on this area for dynamic scene understanding.</i></span>
 
-## Fast Multilingual Acoustic Model for Low Resource Languages
+## Reed:  An approach towards quickly bootstrapping multilingual acoustic models
 
-**Multilingual Automatic Speech Recognition**, <a href="/files/MASR___Short.pdf" target="_blank">short</a>, 2020
+**Speech Recognition, Deep Learning**, <a href="/files/SLT.pdf" target="_blank">paper</a>, (accepted at SLT), 2021
 
 <span class="research-img">
 	<img src="/images/masr.svg">

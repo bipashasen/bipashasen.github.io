@@ -1,8 +1,10 @@
 ---
-title: "Updates"
+title: "Awards, Honors & Life Updates"
 permalink: /career/
 author_profile: true
 ---
+
+<span class="big_font">Here you can find an <b>incomplete</b> list of my awards, honors and life updates.</span>
 
 July 2020 - Talk proposal "Short Term Context-based Fast Multilingual Acoustic Model for Low Resource Languages" accepted for presentation in Microsoft Machine Learning And Data Science (MLADS) Conference. 
 

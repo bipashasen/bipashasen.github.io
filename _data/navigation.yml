@@ -3,8 +3,8 @@ main:
 #  - title: "Blog"
 #    url: /blog/
 
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
 
 #  - title: "Publications"
 #    url: /publications/
@@ -15,14 +15,14 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/
 
-#  - title: "Updates"
-#    url: /career/
+  # - title: "Updates"
+  #   url: /career/
 
 #  - title: "Career"
 #    url: /career/
 
   - title: "CV"
-    url: /files/CV.pdf
+    url: /files/BipashaCVOct2020.pdf
 
 #  - title: "Guide"
 #    url: /markdown/

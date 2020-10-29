@@ -16,6 +16,25 @@
   }
 }
 
+#ex_mic {
+  font-size:10px;
+  font-style:italic;
+}
+
+.main_img_d {
+  text-align: center;
+  display: inline-block;
+  margin: 0 5px;
+}
+
+.main_img_d div {
+  margin: 10px 0;
+}
+
+img.main_p_img {
+    height: 270px;
+}
+
 .underline {
   text-decoration: underline;
 }
@@ -24,6 +43,11 @@
   width: 22px;
   vertical-align: text-top;
   margin-left: 5px;
+}
+
+.tiny-emoji {
+  width: 17px;
+  vertical-align: text-top;
 }
 
 .page {
@@ -64,6 +88,11 @@
   line-height: 30px;
 }
 
+.small_font {
+  font-size:15px;
+  line-height: 14px;
+}
+
 #pose-based-action-recogntion-using-heirarchichal-blstm,
 #anterior-segment-imaging---mit-media-labs-rethinking-engineering-design-execution {
   margin-top: 0;
@@ -80,6 +109,11 @@
   }
 }
 
+#img_cit {
+  font-size: 11px;
+  display: block;
+}
+
 .research-text {
   font-size: 15px; 
 }
@@ -89,6 +123,7 @@
   h1 {
     font-weight: 200;
     font-size: 45px;
+    margin-bottom: -25px;
   }
 
   h2 {
