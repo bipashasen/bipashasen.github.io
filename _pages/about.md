@@ -37,7 +37,7 @@ Lastly, a loss based on the length of the summary maintains the <b>S</b>pan. Thi
 
 ## Reed:  An approach towards quickly bootstrapping multilingual acoustic models
 
-**Speech Recognition, Deep Learning**, <a target="_blank" href="/files/SLT.pdf" target="_blank">paper</a> (accepted at SLT, 2021)
+**Speech Recognition, Deep Learning**, <a target="_blank" href="https://www.researchgate.net/publication/346445156_REED_AN_APPROACH_TOWARDS_QUICKLY_BOOTSTRAPPING_MULTILINGUAL_ACOUSTIC_MODELS" target="_blank">paper</a> (accepted at SLT, 2021)
 
 <span class="research-img">
 	<img width="500" src="/images/slt.svg">
