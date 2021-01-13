@@ -5,13 +5,9 @@ author_profile: true
 ---
 
 <div class="paintings_wrapper">
-	<a href="/paintings/abstract_2.JPG">
-		<img class="paintings" src="/paintings/abstract_2.JPG">
-	</a>
-	<a href="/paintings/abstract_1.JPG">
-		<img class="paintings" src="/paintings/abstract_1.JPG">
-	</a>
-	<a href="/paintings/dancer_1.jpeg">
-		<img class="paintings" src="/paintings/dancer_1.jpeg">
-	</a>
+	<ul>
+		<a target="_blank" href="/paintings/abstract_2.JPG"><li class="paintings" style="background-image: url('/paintings/abstract_2.JPG');"></li></a>
+		<a target="_blank" href="/paintings/abstract_1.JPG"><li class="paintings" style="background-image: url('/paintings/abstract_1.JPG');"></li></a>
+		<a target="_blank" href="/paintings/dancer_1.jpeg"><li class="paintings" style="background-image: url('/paintings/dancer_1.jpeg');"></li></a>
+	</ul>
 </div>
