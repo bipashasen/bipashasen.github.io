@@ -1,6 +1,6 @@
 ---
 title: "Road trip"
-permalink: /travel/
+permalink: /travel_backup/
 author_profile: true
 ---
 

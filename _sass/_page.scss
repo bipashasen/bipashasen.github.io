@@ -120,6 +120,11 @@ img.main_p_img {
 
 .page__content {
 
+  img {
+    margin: 5px;
+    max-width: 200px;
+  }
+
   h1 {
     font-weight: 200;
     font-size: 45px;
@@ -136,6 +141,7 @@ img.main_p_img {
   p, li, dl {
     font-size: 16px;
     line-height: 22px;
+    display: inline;
   }
 
   /* paragraph indents */
