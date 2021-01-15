@@ -38,7 +38,7 @@ Lastly, a loss based on the length of the summary maintains the <b>S</b>pan. Thi
 
 ## Reed:  An approach towards quickly bootstrapping multilingual acoustic models
 
-**Speech Recognition, Deep Learning**, <a target="_blank" href="https://www.researchgate.net/publication/346445156_REED_AN_APPROACH_TOWARDS_QUICKLY_BOOTSTRAPPING_MULTILINGUAL_ACOUSTIC_MODELS" target="_blank">paper</a> (accepted at SLT, 2021)
+**Speech Recognition, Deep Learning**, <a href="https://www.researchgate.net/publication/346445156_REED_AN_APPROACH_TOWARDS_QUICKLY_BOOTSTRAPPING_MULTILINGUAL_ACOUSTIC_MODELS" target="_blank">paper</a>, <a href="files/REED_presentation.pdf" target="_blank">presentation</a>  (accepted at SLT, 2021)
 
 <span class="research-img">
 	<img width="500" src="/images/slt.svg">
@@ -50,7 +50,7 @@ atleast a factor of 4× and 7.4× respectively with comparable WERs against stan
 
 ## An  Approach  Towards  Action  Recognition  using  Part  Based Hierarchical Fusion
 
-**Computer Vision, Deep Learning**, <a target="_blank" href="https://www.researchgate.net/profile/Aditya_Agarwal8/publication/344587654_EasyChair_Preprint_An_Approach_Towards_Action_Recognition_using_Part_Based_Hierarchical_Fusion_An_Approach_Towards_Action_Recognition_using_Part_Based_Hierarchical_Fusion/links/5f821144299bf1b53e1de51e/EasyChair-Preprint-An-Approach-Towards-Action-Recognition-using-Part-Based-Hierarchical-Fusion-An-Approach-Towards-Action-Recognition-using-Part-Based-Hierarchical-Fusion.pdf" target="_blank">paper</a> (accepted at ISVC, 2020)
+**Computer Vision, Deep Learning**, <a href="files/PBAR.pdf" target="_blank">paper</a>, <a href="files/PBAR_presentation.pdf" target="_blank">presentation</a>  (accepted at ISVC, 2020)
 
 <span class="research-img">
 	<img src="/images/pbar.jpeg" width="500px">
