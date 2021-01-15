@@ -124,3 +124,17 @@ A prediction model that could predict the songs that a user would want toplay ne
 
 <span class="research-text">
 During my internship at Microsoft, I worked on a virtual shop assistant whose responsibility was to proactively engage the users and assist them towards the task completion. From a a set of curated questions, the agent needed to learn the most efficient order of questions to ask the users in order to maximize the engagement and take them closer to placing an order. I worked on a framework developed by Microsoft Research Lab based on refinforcement learning called Multi World Testing (MWT) and implemented the policy, reward to develop and train the model.</span>
+
+# Other Projects
+
+## PianoAR 
+
+Developed an application that a projected and augmented a pinao on any table top and detected finger positions on the projection to play the corresponding piano notes.
+
+## Football Match - Emotion Segregation
+
+Developed a model using word-2-vec and RNNs to detect emotion on Twitter feeds during football matches. Divided the feeds into two groups, each group denoting the supporter of each of team.
+
+## Hoverboard
+
+As a part of the IEEE chapter of my undergraduate, I, along with my team, developed a hoverboard.
