@@ -116,7 +116,7 @@ A prediction model that could predict the songs that a user would want toplay ne
  -->
 ## Virtual Shopping Assitant Bot
 
-**Reinforcment Learning, Conversational Bot**, (Microsoft - Data Science Intern)
+**Reinforcment Learning, Conversational Bot**, <a href="https://www.microsoft.com/en-us/research/project/multi-world-testing-mwt/" target="_blank">Reference</a>, (Microsoft - Data Science Intern)
 
 <span class="research-img">
 	<img src="/images/bots.jpg" style="height:300px">
