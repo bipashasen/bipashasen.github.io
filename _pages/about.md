@@ -133,7 +133,7 @@ Developed an application that a projected and augmented a pinao on any table top
 
 ## Football Match - Emotion Segregation
 
-Developed a model using word-2-vec and RNNs to detect emotion on Twitter feeds during football matches. Divided the feeds into two groups, each group denoting the supporter of each of team.
+Developed a model using word-2-vec and RNNs to detect emotion on Twitter feeds during football matches. Divided the feeds into two groups, each group denoting the supporter of each team.
 
 ## Hoverboard
 
