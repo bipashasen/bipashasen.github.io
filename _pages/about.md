@@ -43,7 +43,7 @@ Lastly, a loss based on the length of the summary maintains the <b>S</b>pan. Thi
 
 ## Reed:  An approach towards quickly bootstrapping multilingual acoustic models
 
-**Speech Recognition, Deep Learning**, <a href="files/Reed_Long.pdf" target="_blank">paper</a>, <a href="files/REED_presentation.pdf" target="_blank">presentation</a>  (accepted at SLT, 2021)
+**Speech Recognition, Deep Learning** [ <a href="files/Reed_Long.pdf" target="_blank">paper</a> ] [ <a href="files/REED_presentation.pdf" target="_blank">presentation</a> ] (accepted at SLT, 2021)
 
 <span class="research-img">
 	<img width="500" src="/images/slt.svg">
@@ -55,7 +55,7 @@ atleast a factor of 4× and 7.4× respectively with comparable WERs against stan
 
 ## An Approach Towards Action Recognition using Part Based Hierarchical Fusion
 
-**Computer Vision, Deep Learning**, <a href="files/PBAR.pdf" target="_blank">paper</a>, <a href="files/PBAR_presentation.pdf" target="_blank">presentation</a>  (accepted at ISVC, 2020)
+**Computer Vision, Deep Learning** [ <a href="files/PBAR.pdf" target="_blank">paper</a> ] [ <a href="files/PBAR_presentation.pdf" target="_blank">presentation</a> ] (accepted at ISVC, 2020)
 
 <span class="research-img">
 	<img src="/images/pbar.jpeg" width="500px">
@@ -66,7 +66,7 @@ atleast a factor of 4× and 7.4× respectively with comparable WERs against stan
 
 ## Sentence Modelling for Contextual Meeting Segmentation
 
-**Natural Language Processing, Summarization**, <a target="_blank" href="/files/CMS___Synapse__V2.pdf" target="_blank">short paper</a>
+**Natural Language Processing, Summarization** [ <a target="_blank" href="/files/CMS___Synapse__V2.pdf" target="_blank">short paper</a> ]
 
 <span class="research-img">
 	<img src="/images/pn.png" width="600px">
@@ -77,7 +77,7 @@ atleast a factor of 4× and 7.4× respectively with comparable WERs against stan
 
 ## Knowledge Graph (AiGraph) Based Meeting Insights
 
-**Information Retrieval, Recommendation**, <a target="_blank" href="/files/l1.pdf" target="_blank">short paper</a>
+**Information Retrieval, Recommendation** [ <a target="_blank" href="/files/l1.pdf" target="_blank">short paper</a> ]
 
 <span class="research-img">
 	<img src="/images/pu.svg" width="500px">
@@ -88,7 +88,7 @@ atleast a factor of 4× and 7.4× respectively with comparable WERs against stan
 
 ## Anterior Segment Imaging - MIT Media Lab's REDX
 
-**Computer Vision, Anamoly Detection, Hardware**, <a target="_blank" href="/files/asi.pdf" target="_blank">poster</a>
+**Computer Vision, Anamoly Detection, Hardware** [ <a target="_blank" href="/files/asi.pdf" target="_blank">poster</a> ]
 
 <span class="research-img">
 	<img src="/images/redx.jpeg" width="600px">
@@ -99,7 +99,7 @@ Rethinking Engineering Design Execution (REDX) is an interdisciplinary platform 
 
 ## Cloud Based Group Oriented File Sharing Network - TheBhaad
 
-**Cloud Computing, Security, User Behavioral Study**, <a href="https://www.youtube.com/watch?v=S9Oq2n2rIaY" target="_blank">video</a>
+**Cloud Computing, Security, User Behavioral Study** [ <a href="https://www.youtube.com/watch?v=S9Oq2n2rIaY" target="_blank">video</a> ]
 
 <span class="research-img">
 	<img src="/images/thebhaad.jpg" style="height:300px">
@@ -121,7 +121,7 @@ A prediction model that could predict the songs that a user would want toplay ne
  -->
 ## Virtual Shopping Assitant Bot
 
-**Reinforcment Learning, Conversational Bot**, <a href="https://www.microsoft.com/en-us/research/project/multi-world-testing-mwt/" target="_blank">Reference</a>, (Microsoft - Data Science Intern)
+**Reinforcment Learning, Conversational Bot** [ <a href="https://www.microsoft.com/en-us/research/project/multi-world-testing-mwt/" target="_blank">Reference</a> ] (Microsoft - Data Science Intern)
 
 <span class="research-img">
 	<img src="/images/bots.jpg" style="height:300px">
