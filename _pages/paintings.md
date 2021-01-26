@@ -4,6 +4,8 @@ permalink: /paintings/
 author_profile: true
 ---
 
+Music covers and travel vlogging -- <a target="_blank" href="https://www.youtube.com/channel/UCU1TMnEt0J1UJZfMW1Gixgg?view_as=subscriber" target="_blank">YouTube</a>. 
+
 <div class="paintings_wrapper">
 	<ul>
 		<span><a target="_blank" href="/paintings/acrylic-1-2.jpg"><li class="paintings" style="background-image: url('/paintings/acrylic-1-2_small.jpg');"></li></a><span class="p_desc">Flowers / 21st Jan, 2021</span></span>

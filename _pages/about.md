@@ -8,15 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-<span class="small_font">I am a Data Scientist at Microsoft Research & Development - Hyderabad. I develop intelligent features on the world's biggest enterprise facing email client - Outlook. These features increase the productivity of our users and reduce their time to task completion. The features I have worked on has reached more than 100 million users, my hunch is that you might have seen some of them! <img class="tiny-emoji" with="18px" src="images/grin.svg">
+<span class="small_font">I am a Data Scientist at Microsoft Research & Development - Hyderabad. I develop intelligent features on the world's biggest enterprise facing email client - Outlook. These features increase the productivity of our users and reduce their time to task completion. These features are used by more than 100 million users per month, my hunch is that you might have seen some of them! <img class="tiny-emoji" with="18px" src="images/grin.svg">
 </span>
 
 <div id="ex_mic"> 
 	<div class="main_img_d"><img class="main_p_img" id="sugg_att" src="images/sugg_att.jpeg"><div>Suggested Attachments (Outlook)</div></div>
 	<div class="main_img_d"><img class="main_p_img" id="meet_in" src="images/meet_in.jpeg"><div>Meeting Insights (Outlook)</div></div>
 </div>
+<br>
 
-<span class="small_font">My research interests involve accentuating a human's visual, auditory or interactive experience through intelligent augmented and virtual experiences. I believe this can be achieved through today's sophiscated deep learning algorithms by <span class="underline">forecasting human acitivity in the complex world, which is an amalgam of multiple modalities</span>. If we understand what exists properly, then we can easily augment it. In addition to forecasting, I'm also interested in generation. <span class="underline">Audio-infused Video generation, Video-infused Audio generation and using real-objects as props in a fully simulated environment</span>. I have eclectic experiences in the domain of Computer Science, from competitive programming, to Software Engineering and now to Artificial Intelligence, Deep Learning and Distributed Computing. My favorite language is Python, merely because it is so simple, yet elegant and powerful! You can find a sample of my code <a target="_blank" href="https://github.com/bipashasen/CTC-Transformer-Spech-Recognition/blob/master/run.py">here</a>. Below I have listed some of my major projects I've undertaken in the past few years. </span>
+<span class="small_font">I am primarily interested in developing deep learning models to accentuate a human's visual, auditory, and interactive experiences. I think this can be achieved by training the models to use multimodal environmental cues (video, sound, interaction, etc.) to improve their own understanding of the environment and generate novel content inspired by the environment across different modalities. In this pursuit, I am exploring the areas of audio-visual generative modeling, complex scene understanding, and human intent forecasting. My primary motivation is aiding the space of AR/VR. I think these multimodal generative models can improve the content generation in AR/VR. </span>
+
+<span class="small_font">I acted as a visiting research at the LTRC lab of IIIT-H. I was advised by <a target="_blank" href="https://www.iiit.ac.in/people/faculty/anilvuppala/">Professor Anil Kumar Vuppala</a>. </span>
+
+<span class="small_font"> My favorite language is Python, merely because it is so simple, yet elegant and powerful! You can find a sample of my code <a target="_blank" href="https://github.com/bipashasen/CTC-Transformer-Spech-Recognition/blob/master/run.py">here</a>. Below I have listed some of my major projects I've undertaken in the past few years. </span>
 
 <span class="small_font">PS. I am a musician, I sing and play guitar. I have toured and performed at several places with my previous band, <a target="_blank" href="https://www.facebook.com/AndroMetaBand">Andrometa</a>. I also tried my hands out travel vlogging and YouTubing! Find them <a target="_blank" href="https://www.youtube.com/channel/UCU1TMnEt0J1UJZfMW1Gixgg?view_as=subscriber" target="_blank">here!</a></span>
 
@@ -38,7 +43,7 @@ Lastly, a loss based on the length of the summary maintains the <b>S</b>pan. Thi
 
 ## Reed:  An approach towards quickly bootstrapping multilingual acoustic models
 
-**Speech Recognition, Deep Learning**, <a href="https://www.researchgate.net/publication/346445156_REED_AN_APPROACH_TOWARDS_QUICKLY_BOOTSTRAPPING_MULTILINGUAL_ACOUSTIC_MODELS" target="_blank">paper</a>, <a href="files/REED_presentation.pdf" target="_blank">presentation</a>  (accepted at SLT, 2021)
+**Speech Recognition, Deep Learning**, <a href="files/Reed_Long.pdf" target="_blank">paper</a>, <a href="files/REED_presentation.pdf" target="_blank">presentation</a>  (accepted at SLT, 2021)
 
 <span class="research-img">
 	<img width="500" src="/images/slt.svg">
@@ -81,16 +86,16 @@ atleast a factor of 4× and 7.4× respectively with comparable WERs against stan
 <span class="research-text">
 <b>Abstract: </b>In this paper we present AiGraph, an enterprise knowledge graph, representing details about how an employee communicates through emails, meetings, and documents. By representing all her communication in the form of a graph, we are able to extract complex insights which are computationally expensive in silo’ed applications. We consider a recommendation application – Meeting Insights – to show power of AiGraph. This application recommends related emails and documents for a given meeting. There are a number of ways in which AiGraph can improve the Meeting Insights – most signifcantly, it can improve the relevance of the system by providing better candidate emails; and features for a ranker to rank these candidates. In this paper we describe various ways to improve relevance of Meeting Insights using AiGraph.</span>
 
-## Anterior Segment Imaging - MIT Media Lab's Rethinking Engineering Design Execution
+## Anterior Segment Imaging - MIT Media Lab's REDX
 
-**Computer Vision, Anamoly Detection, Hardware**
+**Computer Vision, Anamoly Detection, Hardware**, <a target="_blank" href="/files/asi.pdf" target="_blank">poster</a>
 
 <span class="research-img">
 	<img src="/images/redx.jpeg" width="600px">
 </span>
 
 <span class="research-text">
-I got exposed to the potential of Computer Vision in my undergraduate when I was accepted into MIT Media Lab's Health Technology Camp, Rethinking Engineering Design Execution (REDX) - Eye Care Edition. It is an interdisciplinary platform to enable collaboration between world-renowned medical professionals, engineers and computer scientists to build solutions for society's most pressing healthcare challenges. I collaborated with Hyderabad's leading Eye-Care Institute, L.V.Prasad Eye Institute to build a low-cost, wearable solid-state device as a replacement to existing Ophthalmic Slit Lamps, a device extensively used by Ophthalmologists for examining the eye. The device is bulky, expensive and consequently, extremely difficult to carry out of the hospitals, particularly to the remote locations in India which limits the eye-care facility in such locations. I, along with my team, worked on a simple portable device that could capture  high definition stills of the cornea (anterior segment of the eye) through multiple viewpoints. The multiple viewpoints enabled me to reconstruct the stills into a 3D model of the cornea. I built an anomaly detector to identify any abnormalities in the reconstructed cornea which, along with the reconstructed 3D corneal model served as a preliminary report to the medical professional for further analysis.  </span>
+Rethinking Engineering Design Execution (REDX) is an interdisciplinary platform that enables collaboration between world-renowned medical professionals, engineers and computer scientists to build solutions for society's most pressing healthcare challenges. I collaborated with Hyderabad's leading Eye-Care Institute, L.V.Prasad Eye Institute to build a low-cost, wearable solid-state device as a replacement to existing Ophthalmic Slit Lamps, a device extensively used by Ophthalmologists for examining the eye. The device is bulky, expensive and consequently, extremely difficult to carry out of the hospitals, particularly to the remote locations in India which limits the eye-care facility in such locations. I, along with my team, worked on a simple portable device that could capture  high definition stills of the cornea (anterior segment of the eye) through multiple viewpoints. The multiple viewpoints enabled me to reconstruct the stills into a 3D model of the cornea. I built an anomaly detector to identify any abnormalities in the reconstructed cornea which, along with the reconstructed 3D corneal model served as a preliminary report to the medical professional for further analysis.  </span>
 
 ## Cloud Based Group Oriented File Sharing Network - TheBhaad
 
@@ -101,7 +106,7 @@ I got exposed to the potential of Computer Vision in my undergraduate when I was
 </span>
 
 <span class="research-text">
-The development of the portal was undertaken in order to have an one stop virtual environment that compliments the real environment interactions between students and professors. The idea was build a file-sharing <i>network</i> instead of just a portal. Back in 2013, we had limited means of sharing assignments and coursework namely Facebook groups, which was not user-friendly, inconvinient for group interaction. In the dire need of an organized file-sharing group-based platform, I single-handedly developed TheBhaad over a course of 5 months. TheBhaad had an operating system like user-interface for easy operation with an advanced search features across groups (classrooms), contacts, personalized document realignment, discussion forum, request and push-notification features. <i class="underline">This was extensively used by my undergraduate institution at a time having on an average of 5000 active users per month. I was awarded Best Enterpreneur by my institue for my work on TheBhaad</i></span>
+An one-stop online-environment that complimented the real-environment in terms of the interactions between students and professors. Built a file-sharing <i>network</i> instead of just a portal. Back in 2013, there were limited means for sharing assignments and coursework online (such as Facebook groups) and weren't user-friendly. Moreover, they were inconvinient for group interaction. In the dire need of an organized file-sharing group-based platform, I single-handedly developed TheBhaad over a course of 5 months. TheBhaad had an operating system like user-interface for easy operation with an advanced search features across groups (classrooms), contacts, personalized document realignment, discussion forum, request and push-notification features. <i class="underline">This was extensively used by my undergraduate institution at a time having on an average of 5000 active users per month. I was awarded Best Enterpreneur by my institue for my work on TheBhaad</i></span>
 
 <!-- ## Reinforced and Collaborative Music Recommendation
 
@@ -123,9 +128,14 @@ A prediction model that could predict the songs that a user would want toplay ne
 </span>
 
 <span class="research-text">
-During my internship at Microsoft, I worked on a virtual shop assistant whose responsibility was to proactively engage the users and assist them towards the task completion. From a a set of curated questions, the agent needed to learn the most efficient order of questions to ask the users in order to maximize the engagement and take them closer to placing an order. I worked on a framework developed by Microsoft Research Lab based on refinforcement learning called Multi World Testing (MWT) and implemented the policy, reward to develop and train the model.</span>
+Developed a virtual shopping assistant bot that proactively engaged users and assisted them in placing an order. From a a set of curated questions, the agent learned the optimal order of questions to ask to maximize user engagement. I integrated multi-world testing (MWT), a machine learning toolbox based on reinforcement learning for principled and efficient experimentation, into the bot.</span>
 
 # Other Projects
+<br>
+
+## COVID-19 fact checker
+
+Developed a pipeline to fact-check covid-19 news queried on Bing by validating the facts against curated authentic sources. 
 
 ## PianoAR 
 
@@ -133,7 +143,7 @@ Developed an application that a projected and augmented a pinao on any table top
 
 ## Football Match - Emotion Segregation
 
-Developed a model using word-2-vec and RNNs to detect emotion on Twitter feeds during football matches. Divided the feeds into two groups, each group denoting the supporter of each team.
+Developed a model using word-2-vec and RNNs to detect emotion on Twitter feeds during football matches and segregate the tweets into buckets representing the supporters of competing teams. 
 
 ## Hoverboard
 
