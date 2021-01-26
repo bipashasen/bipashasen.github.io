@@ -53,7 +53,7 @@ Lastly, a loss based on the length of the summary maintains the <b>S</b>pan. Thi
 <b>Abstract: </b>Multilingual automatic speech recognition (ASR) system is a single entity capable of transcribing multiple languages sharing a common phone space. Performance of such a system is highly dependent on the compatibility of the languages. State of the art speech recognition systems are built using sequential architectures based on recurrent neural networks (RNN) limiting the computational parallelization in training. This poses a significant challenge in terms of time taken to bootstrap and validate the compatibility of multiple languages for building a robust multilingual system. Complex architectural choices based on self-attention networks are made to improve the parallelization thereby reducing the training time. In this work, we propose Reed, a simple system based on 1D convolutions which uses very short context to improve the training time. To improve the performance of our system, we use raw time-domain speech signals directly as input. This enables the convolutional layers to learn feature representations rather than relying on handcrafted features such as MFCC. We report improvement on training and inference times by
 atleast a factor of 4× and 7.4× respectively with comparable WERs against standard RNN based baseline systems on SpeechOcean’s multilingual low resource dataset.</span>
 
-## An  Approach  Towards  Action  Recognition  using  Part  Based Hierarchical Fusion
+## An Approach Towards Action Recognition using Part Based Hierarchical Fusion
 
 **Computer Vision, Deep Learning**, <a href="files/PBAR.pdf" target="_blank">paper</a>, <a href="files/PBAR_presentation.pdf" target="_blank">presentation</a>  (accepted at ISVC, 2020)
 
@@ -129,6 +129,8 @@ A prediction model that could predict the songs that a user would want toplay ne
 
 <span class="research-text">
 Developed a virtual shopping assistant bot that proactively engaged users and assisted them in placing an order. From a a set of curated questions, the agent learned the optimal order of questions to ask to maximize user engagement. I integrated multi-world testing (MWT), a machine learning toolbox based on reinforcement learning for principled and efficient experimentation, into the bot.</span>
+
+<br>
 
 # Other Projects
 <br>

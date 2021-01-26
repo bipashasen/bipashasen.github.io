@@ -146,6 +146,18 @@ img.main_p_img {
   }
 }
 
+#breqs-self-supervised-meeting-summarization {
+  border: none;
+  margin-top: 30px;
+  padding-top: 20px;
+}
+
+#covid-19-fact-checker, #hoverboard, #football-match---emotion-segregation, #pianoar {
+  border: none;
+  margin-top: 10px;
+  padding-top: 20px;
+}
+
 .page__content {
 
   .paintings {
@@ -166,7 +178,9 @@ img.main_p_img {
   h2 {
     font-size: 21px;
     font-weight: 200;
-    margin-bottom:10px;
+    margin: 25px 0px 10px 0px;
+    padding-top: 25px;
+    border-top: 1px solid #eaeaea;
     text-decoration: underline;
   }
 
