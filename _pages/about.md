@@ -10,7 +10,7 @@ redirect_from:
 
 <span class="small_font">I am working as a Research Fellow at the <a target="_blank" href="https://cvit.iiit.ac.in/">CVIT lab</a> under the supervision of <a target="_blank" href="https://faculty.iiit.ac.in/~jawahar/">Prof. CV Jawahar</a> and <a target="_blank" href="https://vinaypn.github.io/">Prof. Vinay Namboodiri</a>. I also as a visiting research at the LTRC lab of IIIT-H between 2019 and 2020. I was advised by <a target="_blank" href="https://www.iiit.ac.in/people/faculty/anilvuppala/">Prof. Anil Kumar Vuppala</a>.</span>
 
-<span class="small_font">I am a Data Scientist at Microsoft Research & Development - Hyderabad. I develop intelligent features on the world's biggest enterprise facing email client - Outlook. These features increase the productivity of our users and reduce their time to task completion. These features are used by more than 100 million users per month, my hunch is that you might have seen some of them! <img class="tiny-emoji" with="18px" src="images/grin.svg">
+<span class="small_font">I used to work as a Data Scientist at Microsoft Research & Development - Hyderabad. I developed intelligent features on the world's biggest enterprise facing email client - Outlook. These features increase the productivity of our users and reduce their time to task completion. These features are used by more than 100 million users per month, my hunch is that you might have seen some of them! <img class="tiny-emoji" with="18px" src="images/grin.svg">
 </span>
 
 <div id="ex_mic"> 
