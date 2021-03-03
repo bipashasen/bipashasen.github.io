@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<span class="small_font">I am working as a Research Fellow at the <a target="_blank" href="https://cvit.iiit.ac.in/">CVIT lab</a> under the supervision of <a target="_blank" href="https://faculty.iiit.ac.in/~jawahar/">Prof. CV Jawahar</a> and <a target="_blank" href="https://vinaypn.github.io/">Prof. Vinay Namboodiri</a>. I also as a visiting research at the LTRC lab of IIIT-H between 2019 and 2020. I was advised by <a target="_blank" href="https://www.iiit.ac.in/people/faculty/anilvuppala/">Prof. Anil Kumar Vuppala</a>.</span>
+
 <span class="small_font">I am a Data Scientist at Microsoft Research & Development - Hyderabad. I develop intelligent features on the world's biggest enterprise facing email client - Outlook. These features increase the productivity of our users and reduce their time to task completion. These features are used by more than 100 million users per month, my hunch is that you might have seen some of them! <img class="tiny-emoji" with="18px" src="images/grin.svg">
 </span>
 
@@ -18,8 +20,6 @@ redirect_from:
 <br>
 
 <span class="small_font">I am primarily interested in developing deep learning models to accentuate a human's visual, auditory, and interactive experiences. I think this can be achieved by training the models to use multimodal environmental cues (video, sound, interaction, etc.) to improve their own understanding of the environment and generate novel content inspired by the environment across different modalities. In this pursuit, I am exploring the areas of audio-visual generative modeling, complex scene understanding, and human intent forecasting. My primary motivation is aiding the space of AR/VR. I think these multimodal generative models can improve the content generation in AR/VR. </span>
-
-<span class="small_font">I acted as a visiting research at the LTRC lab of IIIT-H. I was advised by <a target="_blank" href="https://www.iiit.ac.in/people/faculty/anilvuppala/">Professor Anil Kumar Vuppala</a>. </span>
 
 <span class="small_font"> My favorite language is Python, merely because it is so simple, yet elegant and powerful! You can find a sample of my code <a target="_blank" href="https://github.com/bipashasen/CTC-Transformer-Spech-Recognition/blob/master/run.py">here</a>. Below I have listed some of my major projects I've undertaken in the past few years. </span>
 
