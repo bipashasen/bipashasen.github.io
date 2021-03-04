@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span class="small_font">I am working as a Research Fellow at the CVIT lab of IIIT-H. I am advised by <a target="_blank" href="https://faculty.iiit.ac.in/~jawahar/">Prof. CV Jawahar</a> and <a target="_blank" href="https://vinaypn.github.io/">Prof. Vinay Namboodiri</a>. I also acted as a visiting research at the LTRC lab between 2019 and 2020. I was advised by <a target="_blank" href="https://www.iiit.ac.in/people/faculty/anilvuppala/">Prof. Anil Kumar Vuppala</a>.</span>
+<span class="small_font">I am working as a Research Fellow at the CVIT lab of IIIT-H. I am advised by <a target="_blank" href="https://faculty.iiit.ac.in/~jawahar/">Prof. CV Jawahar</a> and <a target="_blank" href="https://vinaypn.github.io/">Prof. Vinay Namboodiri</a>. I also acted as a Visiting Researcher at the LTRC lab between 2019 and 2020. I was advised by <a target="_blank" href="https://www.iiit.ac.in/people/faculty/anilvuppala/">Prof. Anil Kumar Vuppala</a>.</span>
 
 <span class="small_font">I am primarily interested in developing deep learning models to accentuate a human's visual, auditory, and interactive experiences. I think this can be achieved by training the models to use multimodal environmental cues (video, sound, interaction, etc.) to improve their own understanding of the environment and generate novel content inspired by the environment across different modalities. In this pursuit, I am exploring the areas of audio-visual generative modeling, complex scene understanding, and human intent forecasting. My primary motivation is aiding the space of AR/VR. I think these multimodal generative models can improve the content generation in AR/VR. </span>
 
