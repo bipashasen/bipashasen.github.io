@@ -22,7 +22,7 @@ In 2018, I travelled solo to 6 countries, 13 states and interviewed 128 independ
 <div class="recent_updates">Recent Updates</div>
 
 <ul>
-	<li><b><i>August 2022</i></b>, Gave a tutorial on "Computer Vision challenges in Table-top rearrangement and Planning" at the <a target="_blank" href="https://cvit.iiit.ac.in/summerschool2022/">6<sup>th</sup> Summer School of AI</a>! [ <a target="_blank" href=""><b>my session</b></a> ]</li>
+	<li><b><i>August 2022</i></b>, Gave a tutorial on "Computer Vision challenges in Table-top rearrangement and Planning" at the <a target="_blank" href="https://cvit.iiit.ac.in/summerschool2022/">6<sup>th</sup> Summer School of AI</a>! [ <a target="_blank" href="https://youtu.be/Olhf4c6OR0w"><b>my session</b></a> ]</li>
 	<li><b><i>June 2022</i></b>, We are in <a target="_blank" href="https://www.iiit.ac.in/files/media/Sakshi-RRC.jpeg">news</a>!</li>
 	<li><b><i>April 2022</i></b>, We came 3<sup>rd</sup> in <a target="_blank" href="http://ocrtoc.org/">ICRA 2022 Open Cloud Robot Table Organization Challenge</a>!</li>
 	<li><b><i>December 2021</i></b>, Granted a Provisional Patent on "SYSTEM AND METHOD FOR TRAINING USERS TO LIP READ"!</li>
