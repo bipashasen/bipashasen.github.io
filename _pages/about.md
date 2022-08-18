@@ -15,9 +15,9 @@ redirect_from:
 <span class="small_font">Before IIIT-H, I was a Data Scientist at Microsoft Research & Development, Hyderabad. I led the recommendation and suggestion team for the world's biggest enterprise facing email client - Outlook. These features are used by more than 100 million users per month, my hunch is that you might have seen some of them! <img class="tiny-emoji" with="18px" src="images/grin.svg">
 </span>
 
-<span class="small_font">I am also a musician, I sing and play guitar. I have toured and performed at several places with my previous band, <a target="_blank" href="https://www.facebook.com/AndroMetaBand">Andrometa</a>. I also tried my hands out travel vlogging and YouTubing! My brother is a (really awesome) piano player and has taken over the channel now - find them <a target="_blank" href="https://www.youtube.com/channel/UCU1TMnEt0J1UJZfMW1Gixgg?view_as=subscriber" target="_blank">here!</a></span>. I also love traveling. 
+<span class="small_font">I am also a musician, I sing and play guitar. I have toured and performed at several places with my previous band, <a target="_blank" href="https://www.facebook.com/AndroMetaBand">Andrometa</a>. I also tried my hands out travel vlogging and YouTubing! My brother is a (really awesome) piano player and has taken over the channel now - find them <a target="_blank" href="https://www.youtube.com/channel/UCU1TMnEt0J1UJZfMW1Gixgg?view_as=subscriber" target="_blank">here!</a>. I also love traveling.</span>
 
-In 2018, I travelled solo to 6 countries, 13 states and interviewed 128 independent musicians!
+<span class="small_font">In 2018, I travelled solo to 6 countries, 13 states and interviewed 128 independent musicians!</span>
 
 <div class="recent_updates">Recent Updates</div>
 
