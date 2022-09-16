@@ -29,3 +29,6 @@ main:
 
   - title: "Paintings"
     url: /paintings/
+    
+  - title: "SCARP: 3D Shape Completion in ARbitrary Poses for Improved Grasping"
+    url: /scarp/
