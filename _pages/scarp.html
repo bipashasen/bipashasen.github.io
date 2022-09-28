@@ -1,0 +1,397 @@
+---
+permalink: /scarp/
+#layout: archive
+excerpt: "SCARP: 3D Shape Completion in ARbitrary Poses for Improved Grasping"
+author_profile: false
+---
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="SCARP: 3D Shape Completion in ARbitrary Poses for Improved Grasping">
+  <meta name="keywords" content="SCARP">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SCARP: 3D Shape Completion in ARbitrary Poses for Improved Grasping</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XQ92MBWJ25"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-XQ92MBWJ25');
+  </script>
+
+		<!-- Load Bootstrap -->
+		<!-- <link rel="stylesheet"
+			href=
+"https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css"
+			integrity=
+"sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I"
+			crossorigin="anonymous" />
+		<script src=
+"https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+				integrity=
+"sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+				crossorigin="anonymous">
+	</script>
+		<script src=
+"https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js"
+				integrity=
+"sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/"
+				crossorigin="anonymous">
+  </script>
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet"> -->
+
+  <link rel="stylesheet" href="/static/css/bulma.min.css">
+  <link rel="stylesheet" href="/static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="/static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="/static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="/static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="/static/js/fontawesome.all.min.js"></script>
+  <script src="/static/js/bulma-carousel.min.js"></script>
+  <script src="/static/js/bulma-slider.min.js"></script>
+  <script src="/static/js/index.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">SCARP: 3D Shape Completion in ARbitrary Poses for Improved Grasping</h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://scholar.google.co.in/citations?user=GZZCH-8AAAAJ&hl=en">Bipasha Sen</a><sup>*1</sup>,</span>
+            <span class="author-block">
+              <a href="https://scholar.google.co.in/citations?user=64Cgbv4AAAAJ&hl=en">Aditya Agarwal</a><sup>*1</sup>,</span>
+            <span class="author-block">
+              Gaurav Singh<sup>*1</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://scholar.google.co.in/citations?user=Eqf8NrEAAAAJ&hl=en">Brojeshwar B.</a><sup>2</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://cs.brown.edu/people/ssrinath/">Srinath Sridhar</a><sup>3</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://scholar.google.co.in/citations?user=QDuPGHwAAAAJ&hl=en">Madhava Krishna</a><sup>1</sup>
+            </span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><sup>1</sup>Robotics Research Center, IIIT-Hyderabad</span>
+            </br>
+            <span class="author-block"><sup>2</sup>TCS Research, India</span>
+            </br>
+            <span class="author-block"><sup>3</sup>Brown University</span>
+          </div>
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="/images/scarp/ICRA2023_2429_Submitted.pdf"
+                   class="external-link button is-normal is-rounded is-dark" target="_blank">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <!-- <span class="link-block">
+                <a href="https://arxiv.org/abs/2201.07788"
+                   class="external-link button is-normal is-rounded is-dark" target="_blank">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span> -->
+              <!-- Video Link. -->
+              <span class="link-block">
+                <a href="https://youtu.be/fU2S5rbl_dg"
+                   class="external-link button is-normal is-rounded is-dark" target="_blank">
+                  <span class="icon">
+                      <i class="fab fa-youtube"></i>
+                  </span>
+                  <span>Video</span>
+                </a>
+              </span>
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/vanhalen42/SCARP"
+                   class="external-link button is-normal is-rounded is-dark" target="_blank">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Inference Code</span>
+                  </a>
+              </span>
+              <!-- Dataset Link. -->
+              <!-- <span class="link-block">
+                <a href="https://"
+                   disabled tabindex="-1"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="far fa-images"></i>
+                  </span>
+                  <span>Data</span>
+                  </a> -->
+              
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>* indicates equal contribution</div>
+</section>
+
+<section class="hero teaser">
+  <center>
+    <!-- <iframe width="850" height="478" src="https://youtu.be/fU2S5rbl_dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/fU2S5rbl_dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </center>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Abstract. -->
+    
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-full">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="columns is-centered has-text-centered">
+          <div class="column is-full">
+            <img src="/images/scarp/scarp_banner.jpg" width="100%" />
+          </div>
+        </div>
+        <div class="content has-text-justified">
+          <!-- <p class="content has-text-justified">
+            Progress in 3D object understanding has relied on manually "<i>canonicalized</i>" shape datasets that contain instances with
+            consistent position and orientation (3D pose). This has made it hard to generalize these methods to in-the-wild shapes, eg., from internet model collections or depth sensors. <b>ConDor</b> is a self-supervised method that learns to <b><u>C</u></b>an<b><u>on</u></b>icalize the 3<b><u>D or</u></b>ientation and position for full and partial 3D point clouds. We build on top of Tensor Field Networks (TFNs), a class of permutation- and rotation-equivariant, and
+            translation-invariant 3D networks. During inference, our method takes an unseen full or partial 3D point cloud at an arbitrary pose and outputs an equivariant canonical pose. During training, this network uses self-supervision losses to learn the canonical pose from an un-canonicalized collection of full and partial 3D point clouds.
+            <b>ConDor</b> can also learn to consistently co-segment object parts without any supervision. Extensive quantitative results on four new metrics show that our approach outperforms existing methods while enabling new applications such as operation on depth images and annotation transfer.
+          </p> -->
+          <p class="content has-text-justified">
+            Recovering full 3D shapes from partial observations is a challenging task that has been extensively addressed in the computer vision community. 
+            Many deep learning methods tackle this problem by training 3D shape generation networks to learn a prior over the full 3D shapes. 
+            In this training regime, the methods expect the inputs to be in a fixed canonical form, without which they fail to learn a valid prior 
+            over the 3D shapes. We propose <b>SCARP</b>, a model that performs <b><u>S</u></b>hape <b><u>C</u></b>ompletion in <b><u>AR</u></b>bitrary <b><u>P</u></b>oses. Given a partial pointcloud of an object, 
+            <b>SCARP</b> learns a disentangled feature representation of pose and shape by relying on rotationally equivariant pose features and 
+            geometric shape features trained using a multi-tasking objective. Unlike existing methods that depend on an external canonicalization, 
+            <b>SCARP</b> performs canonicalization, pose estimation, and shape completion in a single network, improving the performance 
+            by <b>45%</b> over the existing baselines. In this work, we use <b>SCARP</b> for improving grasp proposals on tabletop objects. 
+            By completing partial tabletop objects directly in their observed poses, <b>SCARP</b> enables a SOTA grasp proposal network 
+            improve their proposals by <b>71.2%</b> on partial shapes.
+          </p>
+        </div>
+      </div>
+    </div>
+    <!--/ Abstract. -->
+    
+    </div>
+    <!--/ Paper video. -->
+    </div>
+    </section>
+    <!-- Paper video. -->
+    <!-- <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Video</h2>
+        <div class="publication-video">
+          <iframe src=""
+                  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div> -->
+    <!--/ Paper video. -->
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Method. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-full">
+        <h2 class="title is-3">Overview</h2>
+        <div class="content">
+          <img src="/images/scarp/scarp_main_architecture.jpg" width="100%"/>
+        </div>
+        </br>
+        <div class="content has-text-justified">
+          <!-- <p>
+            We introduce, <b>ConDor</b> a method for self-supervised category-level
+            <b><u>C</u></b>an<b><u>on</u></b>icalization of the 3<b><u>D</u></b> p<b><u>o</u></b>se of
+            pa<b><u>r</u></b>tial shapes.
+            It consists of a neural network that is trained on an un-canonicalized collection of 3D point clouds with inconsistent
+            3D poses.
+
+            During inference, our method takes a full or partial 3D point cloud of an object at an arbitrary pose, and outputs a
+            canonical rotation frame and translation vector.
+            To enable operation on instances from different categories, we build upon Tensor Field Networks
+            (TFNs), a 3D point cloud architecture that is equivariant to 3D rotation and point permutation,
+            and invariant to translation.
+
+            To handle partial shapes, we use a two-branch (Siamese) network with training data that simulates partiality through shape slicing or camera projection.
+            We introduce several losses to help our method learn to canonicalize 3D pose via self-supervision.
+            A surprising feature of our method is the (optional) ability to learn consistent part co-segmentation across instances without any supervision.
+          </p> -->
+          <p>
+            We propose <b>SCARP</b>, a method that performs <b><u>S</u></b>hape <b><u>C</u></b>ompletion in <b><u>AR</u></b>bitrary <b><u>P</u></b>oses. 
+            Unlike existing methods that have to directly learn a prior over all possible poses and shapes, 
+            we first disentangle the pose from the shape of a partial pointcloud. We build a multi-task objective that 
+            (1) generates a disentangled feature representation of pose nd shape by canonicalizing an object to a fixed frame of reference, 
+            (2) estimates the exact pose of the object, and (3) completes the shape of the object using the disentangled representation. 
+            This multi-task objective allows our network to jointly understand the pose and shape of the input. 
+            It does so by learning rotationally-equivariant and translationally invariant pose features using Tensor Field Networks, 
+            and global geometric shape features using PointNet++.
+          </p>
+          </br>
+        </div>
+      </div>
+    </div>
+    <!--/ Method. -->
+  </div>
+</section>
+
+<section class = "section">
+
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-full">
+        <h2 class="title is-3">Qualitative Results</h2>
+    <div class="row">
+      <div class="col-md-6">
+        <div class="thumbnail">
+            <img src="/images/scarp/1_sc_train1.gif" alt="Lights" style="width:100%">
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="thumbnail">
+          <img src="/images/scarp/1_sc_train2.gif" alt="Lights" style="width:100%">
+        </div>
+      </div>
+    </div>
+    <br />
+
+    <div class="row">
+      <div class="col-md-6">
+        <div class="thumbnail">
+            <img src="/images/scarp/2sc_ocrtoc.gif" alt="Lights" style="width:100%">
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="thumbnail">
+          <img src="/images/scarp/3_real_scans.gif" alt="Lights" style="width:100%">
+        </div>
+      </div>
+    </div>
+    <br />
+
+    <!-- <div class="row">
+      <div class="col-md-12">
+        <div class="thumbnail">
+          <img src="images/scarp/2sc_ocrtoc.gif" alt="Lights" style="width:100%">
+        </div>
+      </div>
+    </div>
+    <br />
+    <div class="row">
+      <div class="col-md-12">
+        <div class="thumbnail">
+          <img src="images/scarp/3_real_scans.gif" alt="Lights" style="width:100%">
+        </div>
+      </div>
+    </div>
+    <br /> -->
+    <div class="row">
+      <div class="col-md-12">
+        <div class="thumbnail">
+          <img src="/images/scarp/4_grasp_collision.gif" alt="Lights" style="width:70%">
+        </div>
+      </div>
+    </div>
+
+</div>
+</div></div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Method. -->
+      <div class="column">
+        <h2 class="title">Acknowledgements</h2>
+        </br>
+        <div class="content has-text-justified">
+          <!-- <p> -->
+          We would like to thank Karthik Desingh, who is an Assistant Professor at the University of Minnesota, and Adrien Poulenard, who is a Postdoctoral Fellow at the Stanford University, for their valuable feedback and suggestions.
+          <!-- </p> -->
+          </br>
+        </div>
+      </div>
+    <!--/ Method. -->
+  </div>
+
+
+<!-- <section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre><code>@InProceedings{sajnani2022_condor,
+author = {Rahul Sajnani and
+               Adrien Poulenard and
+               Jivitesh Jain and
+               Radhika Dua and
+               Leonidas J. Guibas and
+               Srinath Sridhar},
+title = {ConDor: Self-Supervised Canonicalization of 3D Pose for Partial Shapes},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2022}
+}</code></pre>
+  </div>
+</section> -->
+
+<!-- eprint={2111.13260}, -->
+
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This website is licensed under a <a rel="license"
+                                                href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+            It is borrowing the <a
+              href="https://github.com/nerfies/nerfies.github.io">source code</a> of this website.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- <script type='text/javascript' src="/bootstrap.js"></script>
+<script type="text/javascript" src="/functions.js"></script> -->
+<script>
+  //starts the carousel
+  $('#myCarousel').carousel();
+</script>
+</body>
+</html>

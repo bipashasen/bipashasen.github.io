@@ -35,7 +35,7 @@ redirect_from:
 
 <div class="recent_updates">Selected Research</div>
 
-<div class="research-block">
+<!-- <div class="research-block">
 	<div class="left">
 		<span class="research-img">
 			<img src="/images/teasers/inr-v.gif">
@@ -48,7 +48,7 @@ redirect_from:
 		Images are considered a complete signal, whereas videos are usually broken down into a set of temporally coherent images. Consequently, an image space is leveraged for various video-based tasks, such as novel video generation and future video segment prediction. This limits the expressivity of videos to only image-based operations needing network designs to obtain temporally coherent trajectories in the image space. We propose INR-V, a video representation network that learns a continuous latent space directly for videos. INR-V regards videos as complete units parameterized by implicit neural representations (INRs), a multi-layered perceptron with only a few thousand parameters. A meta-network is then used to predict these few thousand parameters allowing it to learn a continuous space over the neural representations. Later, the meta-network can generate novel neural representations by sampling diverse points over the learned space leading to novel videos. Interestingly, we find that conditional regularization and progressive weight initialization play a crucial role in obtaining INR-V. In this work, we analyze INR-V's several video-based properties. For instance, we show smooth interpolation of coherent videos between two videos by traversing along their latent points in the underlying video space. Moreover, learning a video space allows the network to directly invert an unseen video to its latent point in the latent space. We show the various applications of video inversion. Lastly, INRs learn a continuous signal independent of the input dimension letting INR-V generate multi-resolution videos (like 32 x 32 or 100 x100) directly at inference without any finetuning or architectural changes. We conduct several comparisons and evaluate each of the properties, ultimately demonstrating the potential of a continuous representation space for videos. 
 		</span>
 	</div>
-</div>
+</div> -->
 
 <div class="research-block">
 	<div class="left">
