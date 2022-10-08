@@ -67,7 +67,21 @@ author_profile: false
     .masthead, .page__footer, .page__meta {display: none;}
     .section {padding: 0}
     .overview-section {padding: 3rem 1.5rem}
-    .results-v1 {width: 534px; height: 304.2px; object-fit: cover; border: 1px solid #dfdfdf; border-radius: 4px;}
+    /* .results-v1 { } */
+    .abstract {font-size: 14px!important; line-height: 20px!important; width: 82%!important; margin: auto!important;}
+    .headings-scarp {font-weight: 400!important; font-size: 40px!important; margin-bottom: 25px!important; border-top: none!important; text-decoration: none!important;}
+    .page__content h2 {margin-top: 35px}
+    body {background: #fefcfe;}
+    .page {width: inherit;
+      float: inherit;
+      margin-right: inherit;
+      padding-left: inherit;
+      padding-right: inherit;}
+    .ack-scarp {
+      margin-bottom: 10px!important;
+      margin-top: 40px;
+      text-align: center;
+    }
   </style>
 </head>
 <body>
@@ -182,10 +196,10 @@ author_profile: false
     
     <div class="columns is-centered has-text-centered">
       <div class="column is-full">
-        <h2 class="title is-3">Abstract</h2>
+        <h2 class="headings-scarp">Abstract</h2>
         <div class="columns is-centered has-text-centered">
           <div class="column is-full">
-            <img src="/images/scarp/scarp_banner.jpg" width="55%" />
+            <img src="/images/scarp/scarp_banner.jpg" width="40%" />
           </div>
         </div>
         <div class="content has-text-justified">
@@ -195,7 +209,7 @@ author_profile: false
             translation-invariant 3D networks. During inference, our method takes an unseen full or partial 3D point cloud at an arbitrary pose and outputs an equivariant canonical pose. During training, this network uses self-supervision losses to learn the canonical pose from an un-canonicalized collection of full and partial 3D point clouds.
             <b>ConDor</b> can also learn to consistently co-segment object parts without any supervision. Extensive quantitative results on four new metrics show that our approach outperforms existing methods while enabling new applications such as operation on depth images and annotation transfer.
           </p> -->
-          <p class="content has-text-justified">
+          <p class="abstract content has-text-justified">
             Recovering full 3D shapes from partial observations is a challenging task that has been extensively addressed in the computer vision community. 
             Many deep learning methods tackle this problem by training 3D shape generation networks to learn a prior over the full 3D shapes. 
             In this training regime, the methods expect the inputs to be in a fixed canonical form, without which they fail to learn a valid prior 
@@ -235,9 +249,9 @@ author_profile: false
     <!-- Method. -->
     <div class="columns is-centered has-text-centered">
       <div class="column is-full">
-        <h2 class="title is-3">Overview</h2>
+        <h2 class="headings-scarp">Overview</h2>
         <div class="content">
-          <img src="/images/scarp/scarp_main_architecture.jpg" width="100%"/>
+          <img src="/images/scarp/scarp_main_architecture.jpg" width="75%"/>
         </div>
         </br>
         <div class="content has-text-justified">
@@ -258,7 +272,7 @@ author_profile: false
             We introduce several losses to help our method learn to canonicalize 3D pose via self-supervision.
             A surprising feature of our method is the (optional) ability to learn consistent part co-segmentation across instances without any supervision.
           </p> -->
-          <p>
+          <p class="abstract">
             We propose <b>SCARP</b>, a method that performs <b><u>S</u></b>hape <b><u>C</u></b>ompletion in <b><u>AR</u></b>bitrary <b><u>P</u></b>oses. 
             Unlike existing methods that have to directly learn a prior over all possible poses and shapes, 
             we first disentangle the pose from the shape of a partial pointcloud. We build a multi-task objective that 
@@ -281,68 +295,32 @@ author_profile: false
   <div class="container is-max-desktop">
     <div class="columns is-centered has-text-centered">
       <div class="column is-full">
-        <h2 class="title is-3">Qualitative Results</h2>
-    <div class="row">
-      <div class="col-md-6">
-        <div class="thumbnail">
-            <img src="/images/scarp/1_sc_train1.gif" class="results-v1" alt="Lights">
+        <h2 class="headings-scarp">Qualitative Results</h2>
+        <div class="">
+          <img src="/images/scarp/example-1.gif" class="results-v1" alt="Lights" width="80%">
         </div>
-      </div>
-      <div class="col-md-6">
-        <div class="thumbnail">
-          <img src="/images/scarp/1_sc_train2.gif" class="results-v1" alt="Lights">
+        <div class="">
+          <img src="/images/scarp/example2.gif" class="results-v1" alt="Lights" width="80%">
         </div>
-      </div>
-    </div>
-    <br />
-
-    <div class="row">
-      <div class="col-md-6">
-        <div class="thumbnail">
-            <img src="/images/scarp/2sc_ocrtoc.gif" alt="Lights" class="results-v1">
+        <div class="">
+            <img src="/images/scarp/example3.gif" class="results-v1" alt="Lights" width="80%">
         </div>
-      </div>
-      <div class="col-md-6">
-        <div class="thumbnail">
-          <img src="/images/scarp/3_real_scans.gif" alt="Lights" class="results-v1">
+        <div class="">
+          <img src="/images/scarp/example4.gif" class="results-v1" alt="Lights" width="70%">
+        </div>
+        <div class="">
+          <img src="/images/scarp/example5.gif" class="results-v1" alt="Lights" width="70%">
         </div>
       </div>
     </div>
-    <br />
-
-    <!-- <div class="row">
-      <div class="col-md-12">
-        <div class="thumbnail">
-          <img src="images/scarp/2sc_ocrtoc.gif" alt="Lights" style="width:100%">
-        </div>
-      </div>
-    </div>
-    <br />
-    <div class="row">
-      <div class="col-md-12">
-        <div class="thumbnail">
-          <img src="images/scarp/3_real_scans.gif" alt="Lights" style="width:100%">
-        </div>
-      </div>
-    </div>
-    <br /> -->
-    <div class="row">
-      <div class="col-md-12">
-        <div class="thumbnail">
-          <img src="/images/scarp/4_grasp_collision.gif" alt="Lights" style="width:70%">
-        </div>
-      </div>
-    </div>
-
-</div>
-</div></div>
+  </div>
 </section>
 
 <section class="section">
   <div class="container is-max-desktop">
     <!-- Method. -->
       <div class="column">
-        <h2 class="title">Acknowledgements</h2>
+        <h2 class="ack-scarp headings-scarp">Acknowledgements</h2>
         </br>
         <div class="content has-text-justified">
           <!-- <p> -->
@@ -353,6 +331,8 @@ author_profile: false
       </div>
     <!--/ Method. -->
   </div>
+  <br>
+  <br>
 
 
 <!-- <section class="section" id="BibTeX">
