@@ -1,6 +1,5 @@
 ---
 permalink: /scarp/
-#layout: archive
 excerpt: "SCARP: 3D Shape Completion in ARbitrary Poses for Improved Grasping"
 author_profile: false
 ---
@@ -64,6 +63,12 @@ author_profile: false
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <style>
+    .masthead, .page__footer, .page__meta {display: none;}
+    .section {padding: 0}
+    .overview-section {padding: 3rem 1.5rem}
+    .results-v1 {width: 534px; height: 304.2px; object-fit: cover; border: 1px solid #dfdfdf; border-radius: 4px;}
+  </style>
 </head>
 <body>
 
@@ -100,6 +105,7 @@ author_profile: false
             </br>
             <span class="author-block"><sup>3</sup>Brown University</span>
           </div>
+          <div>* indicates equal contribution</div>
           <div class="column has-text-centered">
             <div class="publication-links">
               <!-- PDF Link. -->
@@ -159,7 +165,7 @@ author_profile: false
       </div>
     </div>
   </div>
-  <div>* indicates equal contribution</div>
+  <!-- <div>* indicates equal contribution</div> -->
 </section>
 
 <section class="hero teaser">
@@ -179,7 +185,7 @@ author_profile: false
         <h2 class="title is-3">Abstract</h2>
         <div class="columns is-centered has-text-centered">
           <div class="column is-full">
-            <img src="/images/scarp/scarp_banner.jpg" width="100%" />
+            <img src="/images/scarp/scarp_banner.jpg" width="55%" />
           </div>
         </div>
         <div class="content has-text-justified">
@@ -224,7 +230,7 @@ author_profile: false
   </div>
 </section>
 
-<section class="section">
+<section class="overview-section section">
   <div class="container is-max-desktop">
     <!-- Method. -->
     <div class="columns is-centered has-text-centered">
@@ -279,12 +285,12 @@ author_profile: false
     <div class="row">
       <div class="col-md-6">
         <div class="thumbnail">
-            <img src="/images/scarp/1_sc_train1.gif" alt="Lights" style="width:100%">
+            <img src="/images/scarp/1_sc_train1.gif" class="results-v1" alt="Lights">
         </div>
       </div>
       <div class="col-md-6">
         <div class="thumbnail">
-          <img src="/images/scarp/1_sc_train2.gif" alt="Lights" style="width:100%">
+          <img src="/images/scarp/1_sc_train2.gif" class="results-v1" alt="Lights">
         </div>
       </div>
     </div>
@@ -293,12 +299,12 @@ author_profile: false
     <div class="row">
       <div class="col-md-6">
         <div class="thumbnail">
-            <img src="/images/scarp/2sc_ocrtoc.gif" alt="Lights" style="width:100%">
+            <img src="/images/scarp/2sc_ocrtoc.gif" alt="Lights" class="results-v1">
         </div>
       </div>
       <div class="col-md-6">
         <div class="thumbnail">
-          <img src="/images/scarp/3_real_scans.gif" alt="Lights" style="width:100%">
+          <img src="/images/scarp/3_real_scans.gif" alt="Lights" class="results-v1">
         </div>
       </div>
     </div>
