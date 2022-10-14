@@ -70,10 +70,15 @@ author_profile: false
     .is-size-5 {margin-bottom: 10px}
     .title.is-1 {font-size: 31px; font-weight: 800;}
     .underline {text-decoration: underline}
+    .more-results { width: 50%!important; }
     .abstract {font-size: 14px!important; line-height: 20px!important; width: 82%!important; margin: auto!important;}
     .small-heading {font-weight: 800!important; font-size: 25px!important; margin-bottom: 25px!important; margin-top: 10px; border-top: none!important; text-decoration: none!important;}
     .headings-scarp {font-weight: 400!important; font-size: 40px!important; margin-bottom: 25px!important; border-top: none!important; text-decoration: none!important;}
     .page__content h2 {margin-top: 35px}
+    .citation-section {width: 800px;margin: auto;}
+    .small-links {text-decoration: none;}
+    .external-link .icon {margin-top: 2px;}
+    .external-link {text-decoration: none!important;}
     body {background: #fefcfe;}
     .page {width: inherit;
       float: inherit;
@@ -86,8 +91,9 @@ author_profile: false
       text-align: center;
     }
     .qual-results {
-      border: 1px dashed #b5b5b5;
-      border-radius: 5px;
+      border: 1px solid #c0bcbc7d;
+      box-shadow: 4px 2px 6px #b6b1b1;
+      border-radius: 25px;
       margin-bottom: 30px;
     } 
     .iframe-center {
@@ -149,7 +155,7 @@ author_profile: false
               <!-- PDF Link. -->
               <span class="link-block">
                 <a href="/images/scarp/ICRA2023_2429_Submitted.pdf"
-                   class="external-link button is-normal is-rounded is-dark" target="_blank">
+                   class="small-links external-link button is-normal is-rounded is-dark" target="_blank">
                   <span class="icon">
                       <i class="fas fa-file-pdf"></i>
                   </span>
@@ -168,7 +174,7 @@ author_profile: false
               <!-- Video Link. -->
               <span class="link-block">
                 <a href="https://youtu.be/fU2S5rbl_dg"
-                   class="external-link button is-normal is-rounded is-dark" target="_blank">
+                   class="small-links external-link button is-normal is-rounded is-dark" target="_blank">
                   <span class="icon">
                       <i class="fab fa-youtube"></i>
                   </span>
@@ -178,7 +184,7 @@ author_profile: false
               <!-- Code Link. -->
               <span class="link-block">
                 <a href="https://github.com/vanhalen42/SCARP"
-                   class="external-link button is-normal is-rounded is-dark" target="_blank">
+                   class="small-links external-link button is-normal is-rounded is-dark" target="_blank">
                   <span class="icon">
                       <i class="fab fa-github"></i>
                   </span>
@@ -336,17 +342,30 @@ author_profile: false
         <div class="">
           <img src="/images/scarp/example5.gif" class="results-v1" alt="Lights" width="70%">
         </div>
-        <h2 class="small-heading">Comparisons</h2>
+        <!-- <h2 class="small-heading">Comparisons</h2>
         <div class="">
-          <img src="/images/scarp/qual1.gif" class="qual-results results-v1" alt="Lights" width="70%">
-        </div>
-        <h2 class="small-heading">Additional Results</h2>
+          <img src="/images/scarp/qual1.gif" class="more-results qual-results results-v1" alt="Lights" width="70%">
+        </div> -->
+        <h2 class="small-heading">More Results</h2>
         <div class="">
-          <img src="/images/scarp/results6.gif" class="qual-results results-v1" alt="Lights" width="70%">
+          <img src="/images/scarp/results6.gif" class="more-results qual-results results-v1" alt="Lights" width="70%">
         </div>
       </div>
     </div>
   </div>
+</section>
+
+<section class="citation-section section">
+  <h2 class="ack-scarp headings-scarp">Citation</h2>
+  </br>
+  <code>
+  @article{scarp,<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;title={SCARP: 3D Shape Completion in ARbitrary Poses},<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;author={Bipasha Sen, Aditya Agarwal, Gaurav Singh, Srinath Sridhar, Madhav Krishna},<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;journal={},<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;year={2022}<br>
+  }
+</code>
 </section>
 
 <section class="section">
