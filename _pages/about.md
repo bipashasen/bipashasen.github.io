@@ -23,7 +23,7 @@ redirect_from:
 
 <ul class="updates">
 	<li><b>[ October 2022 ]</b> INR-V: A Continuous Representation Space for Video-based Generative Tasks accepted at <b>TMLR 2022</b>!</li>
-	<li><b>[ September 2022 ]</b> Microsoft Research gave a travel grant of $2000 for <b>WACV 2023</b>!</li>
+	<li><b>[ September 2022 ]</b> I am grateful to Microsoft Research for awarding me a travel grant of $2000 for attending <b>WACV 2023</b>!</li>
 	<li><b>[ August 2022 ]</b> 2 papers accepted at <b>WACV 2023</b>!</li>
 	<li><b>[ August 2022 ]</b> Gave a tutorial on "Computer Vision challenges in Table-top rearrangement and Planning" at the <a target="_blank" href="https://cvit.iiit.ac.in/summerschool2022/">6<sup>th</sup> Summer School of AI</a>, IIIT-H! <b><span class="green">(find the talk at the end of the <a href="#ttrp-talk">page</a>)</span></b></li>
 	<li><b>[ June 2022 ]</b> We are in <a target="_blank" href="https://www.iiit.ac.in/files/media/Sakshi-RRC.jpeg">news</a>!</li>
