@@ -23,7 +23,7 @@ redirect_from:
 
 <ul class="updates">
 	<li><b>[ October 2022 ]</b> INR-V: A Continuous Representation Space for Video-based Generative Tasks accepted at <b>TMLR 2022</b>!</li>
-	<li><b>[ September 2022 ]</b> I am grateful to Microsoft Research for awarding me a travel grant of $2000 for attending <b>WACV 2023</b>!</li>
+	<li><b>[ September 2022 ]</b> I am grateful to Microsoft Research for a travel grant of $2000 for <b>WACV 2023</b>!</li>
 	<li><b>[ August 2022 ]</b> 2 papers accepted at <b>WACV 2023</b>!</li>
 	<li><b>[ August 2022 ]</b> Gave a tutorial on "Computer Vision challenges in Table-top rearrangement and Planning" at the <a target="_blank" href="https://cvit.iiit.ac.in/summerschool2022/">6<sup>th</sup> Summer School of AI</a>, IIIT-H! <b><span class="green">(find the talk at the end of the <a href="#ttrp-talk">page</a>)</span></b></li>
 	<li><b>[ June 2022 ]</b> We are in <a target="_blank" href="https://www.iiit.ac.in/files/media/Sakshi-RRC.jpeg">news</a>!</li>
@@ -107,7 +107,7 @@ redirect_from:
 	<div class="right">
 		<div class="title">Approaches and Challenges in Robotic Perception for Table-top Rearrangement and Planning</div>
 		<div class="sub-title">Aditya Agarwal*, <b>Bipasha Sen</b>*, Shankara Narayanan V*, Vishal Reddy Mandadi*, Brojeshwar Bhowmick, K Madhava Krishna, <i><b>Arxiv 2022</b></i>, [ <a target="_blank" href="https://arxiv.org/abs/2205.04090">paper</a> ] [ <a target="_blank" href="https://youtu.be/GrOXEmwzxlA">video</a> ]</div>
-		<div class="win"><img src="images/trophy-icon.webp" width="10px">3rd in ICRA 2022 Open Cloud Robot Table Organization Challenge</div>
+		<div class="win"><img src="images/trophy-icon.webp" width="10px">3rd in <a href="https://rpal.cse.usf.edu/rgmc_icra2022/">ICRA 2022 Open Cloud Robot Table Organization Challenge</a></div>
 		<span class="research-text">
 		Table-top Rearrangement and Planning is a challenging problem that relies heavily on an excellent perception stack. The perception stack involves observing and registering the 3D scene on the table, detecting what objects are on the table, and how to manipulate them. Consequently, it greatly influences the system's task-planning and motion-planning stacks that follow. We present a comprehensive overview and discuss the different challenges associated with the perception module. This work is a result of our extensive involvement in the ICRA 2022 Open Cloud Robot Table Organization Challenge, in which we stood third in the final rankings.
 		</span>
@@ -128,12 +128,3 @@ redirect_from:
 		</span>
 	</div>
 </div>
-
-<br><br><br>
-
-<div id="ttrp-talk">
-	<span class="iframe">
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/Olhf4c6OR0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-		</iframe>
-	<span>
-	
