@@ -3,8 +3,8 @@ main:
   - title: "Blog"
     url: /blog/
 
-  - title: "CV"
-    url: /files/Resume.pdf
-
   - title: "My Art"
     url: /myart/
+
+  - title: "CV"
+    url: /files/Resume.pdf

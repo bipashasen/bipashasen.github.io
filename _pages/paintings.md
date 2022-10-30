@@ -43,14 +43,14 @@ author_profile: true
 <br><br>
 <h1 id="vlog" class="myart-h1"> Vlog </h1>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mXOKP0770v0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<div class="space"></div>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/mXOKP0770v0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="space"></div> -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jfONf3SEbOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class="space"></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x43VPsXG7WA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<div class="space"></div>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/x43VPsXG7WA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="space"></div> -->
 
 <br><br>
 <h1 id="mybrother" class="myart-h1"> My Brother </h1>
