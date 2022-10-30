@@ -1,0 +1,472 @@
+---
+permalink: /FaceOff/
+excerpt: "FaceOff: A Video-to-Video Face Swapping System"
+author_profile: false
+---
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="FaceOff: A Video-to-Video Face Swapping System">
+  <meta name="keywords" content="faceoff">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FaceOff: A Video-to-Video Face Swapping System</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XQ92MBWJ25"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-XQ92MBWJ25');
+    document.title = "FaceOff: A Video-to-Video Face Swapping System";
+  </script>
+
+		<!-- Load Bootstrap -->
+		<!-- <link rel="stylesheet"
+			href=
+"https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css"
+			integrity=
+"sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I"
+			crossorigin="anonymous" />
+		<script src=
+"https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+				integrity=
+"sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+				crossorigin="anonymous">
+	</script>
+		<script src=
+"https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js"
+				integrity=
+"sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/"
+				crossorigin="anonymous">
+  </script>
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet"> -->
+
+  <link rel="stylesheet" href="/static/css/bulma.min.css">
+  <link rel="stylesheet" href="/static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="/static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="/static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="/static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="/static/js/fontawesome.all.min.js"></script>
+  <script src="/static/js/bulma-carousel.min.js"></script>
+  <script src="/static/js/bulma-slider.min.js"></script>
+  <script src="/static/js/index.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <style>
+    .masthead, .page__footer, .page__meta {display: none;}
+    .section {padding: 0}
+    .overview-section {padding: 0 1.5rem 3rem}
+    .is-size-5 {margin-bottom: 10px; font-size: 16px!important;}
+    .title.is-1 {font-size: 33px; font-weight: 800; line-height: 1.2;}
+    .underline {text-decoration: underline}
+    .more-results { width: 70%!important; }
+    .abstract {font-size: 14px!important; line-height: 20px!important; width: 100%!important; margin: 0!important;}
+    .small-heading {font-weight: 800!important; font-size: 25px!important; margin-bottom: 25px!important; margin-top: 10px; border-top: none!important; text-decoration: none!important;}
+    .headings-scarp {
+      font-weight: 400!important;
+      font-size: 20px!important;
+      margin-top: 15px!important;
+      margin-bottom: 25px!important;
+      border-top: none!important;
+      text-decoration: none!important;
+      background: gainsboro;
+      padding: 10px;
+      border-radius: 5px;
+    }  
+    .headings-scarp2 {
+      font-weight: 400!important;
+      font-size: 30px!important;
+      margin-top: 40px!important;
+      text-decoration: none!important;
+    }  
+    .page__content h2 {margin-top: 35px;color: black!important;}
+    .citation-section {width: 800px;margin: auto;font-size: 13.81px;}
+    .small-links {text-decoration: none;}
+    .external-link .icon {margin-top: 2px;}
+    .external-link {text-decoration: none!important;}
+    body {background: #fefcfe;}
+    .interpolation-top {position: relative;z-index: 1;}
+    .interpolation-bottom {margin-top: -68px;}
+    code {font-size:80%}
+    .container, .container-lg, .container-md, .container-sm, .container-xl {max-width: 850px!important;}
+    .page {width: inherit;
+      float: inherit;
+      margin-right: inherit;
+      padding-left: inherit;
+      padding-right: inherit;}
+    .ack-scarp {
+      margin-bottom: 10px!important;
+      margin-top: 40px;
+      text-align: center;
+    }
+    .qual-results {
+      margin-bottom: 30px;
+    } 
+    .iframe-center {
+      width: 65%;
+      height: 0;
+      padding-top: 36.6%;
+      margin: auto;
+      position: relative;
+    }
+    iframe {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      left: 0;
+    } 
+  </style>
+</head>
+<body>
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+	  <!-- <h1 class="title is-1 publication-title">SCARP: 3D <span class="underline">S</span>hape <span class="underline">C</span>ompletion in <span class="underline">AR</span>bitrary <span class="underline">P</span>oses for Improved Grasping</h1> -->
+      <h1 class="title is-1 publication-title">FaceOff: A Video-to-Video Face Swapping System</h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+                <a href="https://scholar.google.co.in/citations?user=64Cgbv4AAAAJ&hl=en">Aditya Agarwal</a><sup>*1</sup>,</span>
+            <span class="author-block">
+              <a href="https://scholar.google.co.in/citations?user=GZZCH-8AAAAJ&hl=en">Bipasha Sen</a><sup>*1</sup>,</span>
+            <span class="author-block">
+                <a href="https://rudrabha.github.io/">Rudrabha Mukhopadhyay</a><sup>1</sup>,</span>
+            <span class="author-block">
+              <a href="https://vinaypn.github.io/">Vinay P Namboodiri</a><sup>2</sup>,
+            </span>
+            <span class="author-block">
+              <a href="https://scholar.google.com/citations?user=U9dH-DoAAAAJ&hl=en">C V Jawahar</a><sup>1</sup>
+            </span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><sup>1</sup>IIIT Hyderabad, India</span>
+            </br>
+            <span class="author-block"><sup>2</sup>University of Bath, UK</span>
+            </br>
+          </div>
+          <div>* indicates equal contribution</div>
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="https://arxiv.org/pdf/2208.09788.pdf"
+                   class="small-links external-link button is-normal is-rounded is-dark" target="_blank">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <!-- <span class="link-block">
+                <a href="https://arxiv.org/abs/2201.07788"
+                   class="external-link button is-normal is-rounded is-dark" target="_blank">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span> -->
+              <!-- Video Link. -->
+              <span class="link-block">
+                <a href="https://www.youtube.com/watch?v=aNhs-mqMOcE"
+                   class="small-links external-link button is-normal is-rounded is-dark" target="_blank">
+                  <span class="icon">
+                      <i class="fab fa-youtube"></i>
+                  </span>
+                  <span>Video</span>
+                </a>
+              </span>
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/skymanaditya1/FaceOff"
+                   class="small-links external-link button is-normal is-rounded is-dark" target="_blank">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                  </a>
+              </span>
+
+              <!-- OpenReview page -->
+              <!-- <span class="link-block">
+                <a href="https://openreview.net/forum?id=aIoEkwc2oB"
+                   class="small-links external-link button is-normal is-rounded is-dark" target="_blank">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>OpenReview</span>
+                </a>
+              </span> -->
+
+              <!-- Dataset Link. -->
+              <!-- <span class="link-block">
+                <a href="https://"
+                   disabled tabindex="-1"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="far fa-images"></i>
+                  </span>
+                  <span>Data</span>
+                  </a> -->
+              
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- <div>* indicates equal contribution</div> -->
+</section>
+
+<section class="hero teaser">
+  <center class="iframe-center">
+    <!-- <iframe width="850" height="478" src="https://youtu.be/fU2S5rbl_dg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+    <!--<iframe src="https://www.youtube.com/embed/fU2S5rbl_dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+    <!-- <iframe src="https://www.youtube.com/embed/0uxWTLQW3HI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/aNhs-mqMOcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </center>
+</section>
+
+<br>
+<br>
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Abstract. -->
+    
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-full">
+        <h2 class="headings-scarp2"><b>Abstract</b></h2><br />
+        <div class="columns is-centered has-text-centered">
+          <div class="column is-full">
+            <img src="/images/faceoff/teaser_abstract_faceoff.jpg" width="100%" />
+          </div>
+        </div>
+        <div class="content has-text-justified">
+          <!-- <p class="content has-text-justified">
+            Progress in 3D object understanding has relied on manually "<i>canonicalized</i>" shape datasets that contain instances with
+            consistent position and orientation (3D pose). This has made it hard to generalize these methods to in-the-wild shapes, eg., from internet model collections or depth sensors. <b>ConDor</b> is a self-supervised method that learns to <b><u>C</u></b>an<b><u>on</u></b>icalize the 3<b><u>D or</u></b>ientation and position for full and partial 3D point clouds. We build on top of Tensor Field Networks (TFNs), a class of permutation- and rotation-equivariant, and
+            translation-invariant 3D networks. During inference, our method takes an unseen full or partial 3D point cloud at an arbitrary pose and outputs an equivariant canonical pose. During training, this network uses self-supervision losses to learn the canonical pose from an un-canonicalized collection of full and partial 3D point clouds.
+            <b>ConDor</b> can also learn to consistently co-segment object parts without any supervision. Extensive quantitative results on four new metrics show that our approach outperforms existing methods while enabling new applications such as operation on depth images and annotation transfer.
+          </p> -->
+          <p class="abstract content has-text-justified">
+            Doubles play an indispensable role in the movie industry. They take the place of the 
+            actors in dangerous stunt scenes or scenes where the same actor plays multiple characters.
+             The double's face is later replaced with the actor's face and expressions manually 
+             using expensive CGI technology, costing millions of dollars and taking months to 
+             complete. An automated, inexpensive, and fast way can be to use face-swapping 
+             techniques that aim to swap an identity from a source face video (or an image) to a 
+             target face video. However, such methods cannot preserve the source expressions of 
+             the actor important for the scene's context. To tackle this challenge, we introduce 
+             video-to-video (V2V) face-swapping, a novel task of face-swapping that can preserve 
+             (1) the identity and expressions of the source (actor) face video and (2) the 
+             background and pose of the target (double) video. We propose FaceOff, a V2V 
+             face-swapping system that operates by learning a robust blending operation to merge 
+             two face videos following the constraints above. It reduces the videos to a quantized 
+             latent space and then blends them in the reduced space. FaceOff is trained in a 
+             self-supervised manner and robustly tackles the non-trivial challenges of V2V 
+             face-swapping. As shown in the experimental section, FaceOff significantly outperforms 
+             alternate approaches qualitatively and quantitatively.
+          </p>
+        </div>
+      </div>
+    </div>
+    <!--/ Abstract. -->
+    
+    </div>
+    <!--/ Paper video. -->
+    </div>
+    </section>
+    <!-- Paper video. -->
+    <!-- <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Video</h2>
+        <div class="publication-video">
+          <iframe src=""
+                  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div> -->
+    <!--/ Paper video. -->
+  </div>
+</section>
+
+<section class="overview-section section">
+  <div class="container is-max-desktop">
+    <!-- Method. -->
+    <div class="is-centered has-text-centered">
+      <div class="column is-full">
+        <h2 class="headings-scarp2"><b>Overview</b></h2><br />
+        <div class="content">
+          <img src="/images/faceoff/architecture_faceoff.jpg" width="100%"/>
+        </div>
+        </br>
+        <div class="content has-text-justified">
+          
+          <p class="abstract">
+            Swapping faces across videos is non-trivial as it involves merging two different motions 
+            - the actor's face motion and the double's head motion. This needs a network that can 
+            take two different motions as input and produce a third coherent motion. FaceOff is a 
+            video-to-video face swapping system that reduces the face videos to a quantized latent 
+            space and blends them in the reduced space. A fundamental challenge in training such a 
+            network is the absence of ground truth. FaceOff uses a self-supervised training strategy 
+            for training: A single video is used as the source and target. We then introduce pseudo 
+            motion errors on the source video. Finally, we train a network to fix these pseudo 
+            errors to regenerate the source video. To do this, we learn to blend the foreground 
+            of the source video with the background and pose of the target face video such that 
+            the blended output is coherent and meaningful. We use a temporal autoencoding module 
+            that merges the motion of the source and the target video using a quantized latent 
+            space. We propose a modified vector quantized encoder with temporal modules made of 
+            non-linear 3D convolution operations to encode the video to the quantized latent space. 
+            The input to the encoder is a single video made by concatenating the source foreground 
+            and target background frames channel-wise. The encoder first encodes the concatenated 
+            video input framewise into 32x32 and 64x64 dimensional top and bottom hierarchies, 
+            respectively. Before the quantization step at each of the hierarchies, the temporal 
+            modules process the reduced video frames. This step allows the network to backpropagate 
+            with temporal connections between the frames. The decoder then decodes the reduced 
+            frames using a distance loss with the ground truth video as supervision. The output 
+            is a temporally and spatially coherent blended video of the source foreground and the 
+            target background. 
+          </p>
+          </br>
+        </div>
+      </div>
+    </div>
+    <!--/ Method. -->
+  </div>
+</section>
+
+<section class = "section">
+
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-full">
+        <h2 class="headings-scarp">FaceOff Video-to-Video Face Swapping</h2>
+        <div class="">
+          <img src="/images/faceoff/v2v_face_swapping.gif" class="interpolation-top" alt="Lights" width="90%">
+          <img src="/images/faceoff/v2v_faceswapping_looped2.gif" class="" alt="Lights" width="90%">
+        </div><br /><br />
+
+        <h2 class="headings-scarp">Training Pipeline</h2>
+        <div class="">
+          <img src="/images/faceoff/training_pipeline.gif" class="interpolation-top" alt="Lights" width="95%">
+        </div>
+
+        <h2 class="headings-scarp">Inference Pipeline</h2>
+        <div class="">
+          <img src="/images/faceoff/inference_pipeline.gif" class="interpolation-top" alt="Lights" width="90%">
+        </div>
+
+        <h2 class="headings-scarp">Results on Unseen Identities</h2>
+        <div class="">
+          <img src="/images/faceoff/v2v_results1.gif" class="interpolation-top" alt="Lights" width="90%">
+          <img src="/images/faceoff/v2v_results2.gif" class="" alt="Lights" width="90%">
+          <img src="/images/faceoff/v2v_results3.gif" class="" alt="Lights" width="90%">
+          <img src="/images/faceoff/v2v_results4.gif" class="" alt="Lights" width="90%">
+        </div>
+
+        <h2 class="headings-scarp">Comparisons</h2>
+        <div class="">
+          <img src="/images/faceoff/v2v_comparisons1.gif" class="interpolation-top" alt="Lights" width="90%">
+          <img src="/images/faceoff/v2v_comparisons2.gif" class="interpolation-bottom" alt="Lights" width="90%" style="z-index: 5; position: relative;">
+          <img src="/images/faceoff/v2v_comparisons31.gif" class="interpolation-bottom" alt="Lights" width="90%" style="z-index: 5; position: relative;">
+        </div>
+        <br>
+        <h2 class="headings-scarp">Results on Same Identity</h2>
+        <div class="">
+          <img src="/images/faceoff/v2v_same_identity1.gif" class="interpolation-top" alt="Lights" width="90%">
+          <img src="/images/faceoff/v2v_same_identity2.gif" class="" alt="Lights" width="90%">
+          <img src="/images/faceoff/v2v_same_identity3.gif" class="" alt="Lights" width="90%">
+        </div>
+
+        <h2 class="headings-scarp">Some More Results</h2>
+        <div class="">
+          <img src="/images/faceoff/v2v_more_result.gif" class="interpolation-top" alt="Lights" width="90%">
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+<br><br>
+<section class="citation-section section">
+  <h2 class="ack-scarp headings-scarp">Citation</h2>
+  </br>
+  <code>
+    <!-- @article{
+        2022inrv,<br>
+        &nbsp;&nbsp;&nbsp;title={INR-V: A Continuous Representation Space for Videos},<br>
+        &nbsp;&nbsp;&nbsp;author={Bipasha Sen and Aditya Agarwal and Vinay P Namboodiri and C. V. Jawahar},<br>
+        &nbsp;&nbsp;&nbsp;journal={Transactions on Machine Learning Research},<br>
+        &nbsp;&nbsp;&nbsp;year={2022},<br>
+        &nbsp;&nbsp;&nbsp;url={https://openreview.net/forum?id=aIoEkwc2oB},<br>
+        &nbsp;&nbsp;&nbsp;note={}<br>
+        } -->
+    <!-- @article{
+        anonymous2022inrv,<br>
+        &nbsp;&nbsp;&nbsp;title={INR-V: A Continuous Representation Space for Videos},<br>
+        &nbsp;&nbsp;&nbsp;author={Anonymous},<br>
+        &nbsp;&nbsp;&nbsp;journal={Submitted to Transactions on Machine Learning Research},<br>
+        &nbsp;&nbsp;&nbsp;year={2022},<br>
+        &nbsp;&nbsp;&nbsp;url={https://openreview.net/forum?id=aIoEkwc2oB},<br>
+        &nbsp;&nbsp;&nbsp;note={Under review}<br>
+        } -->
+    @misc{agarwal2023faceoff,<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;doi = {10.48550/ARXIV.2208.09788},<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;url = {https://arxiv.org/abs/2208.09788},<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author = {Agarwal, Aditya and Sen, Bipasha and Mukhopadhyay, Rudrabha and Namboodiri, Vinay and Jawahar, C. V.},<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;keywords = {Computer Vision and Pattern Recognition (cs.CV)},<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title = {FaceOff: A Video-to-Video Face Swapping System},<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;publisher = {IEEE/CVF Winter Conference on Applications of Computer Vision},<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year = {2023},<br>
+        }
+          
+</code>
+</section>
+<br>
+<br>
+
+<footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This website is licensed under a <a rel="license"
+                                                href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+            It is borrowing the <a
+              href="https://github.com/nerfies/nerfies.github.io">source code</a> of this website.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- <script type='text/javascript' src="/bootstrap.js"></script>
+<script type="text/javascript" src="/functions.js"></script> -->
+<script>
+  //starts the carousel
+  $('#myCarousel').carousel();
+</script>
+</body>
+</html>
