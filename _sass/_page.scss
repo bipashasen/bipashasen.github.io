@@ -236,6 +236,32 @@ img.main_p_img {
   width: 95%;
 }
 
+.mini-navigation {
+  right: 0;
+  text-align: right;
+  position: fixed;
+  font-size: 20px;
+  background: #e5e4e4;
+  padding: 8px 20px;
+  z-index: 1;
+  border: 1px solid #0b3d88;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  
+  a {
+    text-decoration: none !important;
+  }
+}
+
+.space {
+  height: 10px;
+}
+
+.myart-h1 {
+  margin-bottom: 20px !important;
+  text-align: center;
+}
+
 .page__content {
 
   .paintings {

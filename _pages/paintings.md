@@ -1,15 +1,34 @@
 ---
 title: ""
-permalink: /paintings/
+permalink: /myart/
 author_profile: true
 ---
 
-# Music
+<div class="mini-navigation">
+<a href="#music">Music</a><br> 
+<a href="#paintings">Paintings</a><br>
+<a href="#vlog">Vlog</a><br>
+<a href="#mybrother">My Brother</a>
+</div>
 
-Music covers and travel vlogging -- <a target="_blank" href="https://www.youtube.com/channel/UCU1TMnEt0J1UJZfMW1Gixgg?view_as=subscriber" target="_blank">YouTube</a>. 
+<h1 id="music" class="myart-h1"> Music </h1>
 
-<br>
-<div class="recent_updates">Paintings</div>
+<!-- Music covers and travel vlogging -- <a target="_blank" href="https://www.youtube.com/channel/UCU1TMnEt0J1UJZfMW1Gixgg?view_as=subscriber" target="_blank">YouTube</a>.  -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3YIDgdMypgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="space"></div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oSb1upwDZ0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="space"></div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lq7ApSWUQo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="space"></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ywtxt9mZO7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="space"></div>
+
+<br><br>
+<h1 id="paintings" class="myart-h1"> Paintings </h1>
 
 <div class="paintings_wrapper">
 	<ul>
@@ -22,4 +41,25 @@ Music covers and travel vlogging -- <a target="_blank" href="https://www.youtube
 </div>
 
 <br><br>
-<div class="recent_updates">My brother</div>
+<h1 id="vlog" class="myart-h1"> Vlog </h1>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mXOKP0770v0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="space"></div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jfONf3SEbOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="space"></div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x43VPsXG7WA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="space"></div>
+
+<br><br>
+<h1 id="mybrother" class="myart-h1"> My Brother </h1>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V50Vk6jXD10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="space"></div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BAvf6RHjjJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="space"></div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ywc2_rgXRCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="space"></div>
