@@ -28,8 +28,8 @@ You can also reach out to me at bipasha dot sen at research dot iiit dot ac dot 
 <div class="recent_updates">Recent Updates</div>
 
 <ul class="updates">
-	<li><b>JANUARY 2023:</b> I will be attending Google Research Week!</li>
-	<li><b>DECEMBER 2022:</b> Presented INR-V at Vision India, ICVGIP!<a target="_blank" class="tab_paper" href="https://iiitaphyd-my.sharepoint.com/:p:/g/personal/bipasha_sen_research_iiit_ac_in/EY4XFO4EOvtDonHHIxuy-BkBDirnrqLDGOe7V9rd2xJL7g?e=5npSCQ">presentation</a></li>
+	<li><b>JANUARY 2023:</b> I will be attending <a target="_blank" href="https://sites.google.com/view/researchweek2023/home">Google Research Week</a>!</li>
+	<li><b>DECEMBER 2022:</b> Presented INR-V at <a target="_blank" href="https://events.iitgn.ac.in/2022/icvgip/vision_india.html">Vision India, Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)</a>!<a target="_blank" class="tab_paper" href="https://iiitaphyd-my.sharepoint.com/:p:/g/personal/bipasha_sen_research_iiit_ac_in/EY4XFO4EOvtDonHHIxuy-BkBDirnrqLDGOe7V9rd2xJL7g?e=5npSCQ">presentation</a></li>
 	<li><b>OCTOBER 2022:</b><br>INR-V: A Continuous Representation Space for Video-based Generative Tasks accepted at <b>TMLR 2022</b>!</li>
 	<li><b>SEPTEMBER 2022:</b><br>I am grateful to Microsoft Research for awarding me a travel grant of $2000 for <b>WACV 2023</b>!</li>
 	<li><b>AUGUST 2022:</b><br>1. 2 papers accepted at <b>WACV 2023</b>!<br>2. Gave a tutorial on "Computer Vision challenges in Table-top rearrangement and Planning" at the <a target="_blank" href="https://cvit.iiit.ac.in/summerschool2022/">6<sup>th</sup> Summer School of AI</a>, IIIT-H!<a target="_blank" class="tab_paper" href="blog#ttrp-talk">talk</a></li>
@@ -129,7 +129,7 @@ You can also reach out to me at bipasha dot sen at research dot iiit dot ac dot 
 	</div>
 	<div class="right">
 		<div class="title">Personalized One-Shot Lipreading for an ALS Patient</div>
-		<div class="sub-title"><b>Bipasha Sen</b>*, Aditya Agarwal*, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar, <i><b>BMVC 2021</b></i>,<a class="tab_paper" target="_blank" href="https://www.bmvc2021-virtualconference.com/assets/papers/1468.pdf">paper</a><a target="_blank"  class="tab_paper" href="https://youtu.be/_famGVaem-8">video</a></div>
+		<div class="sub-title"><b>Bipasha Sen</b>*, Aditya Agarwal*, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar, <i><b>BMVC 2021</b></i>,<a class="tab_paper" target="_blank" href="https://www.bmvc2021-virtualconference.com/assets/papers/1468.pdf">paper</a><a target="_blank"  class="tab_paper" href="https://youtu.be/_famGVaem-8">video</a><a target="_blank"  class="tab_paper" href="http://bhaasha.iiit.ac.in/lipwav">portal</a></div>
 		<span class="research-text">
 		We propose a personalized network to lipread an ALS patient using only one-shot examples. Our approach significantly improves and achieves high top-5accuracy with 83.2% accuracy compared to 62.6% achieved by comparable methods for the patient. Apart from evaluating our approach on the ALS patient, we also extend it to people with hearing impairment relying extensively on lip movements to communicate.
 		</span>
