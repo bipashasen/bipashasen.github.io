@@ -3,18 +3,72 @@ title: ""
 permalink: /myart/
 author_profile: true
 ---
+<style>
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
 
-<div class="mini-navigation">
-<a href="#music">Music</a><br> 
-<a href="#paintings">Paintings</a><br>
-<a href="#vlog">Vlog</a><br>
-<a href="#mybrother">My Brother</a>
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+</style>
+
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+
+Please be patient, takes a few seconds to load the iframes ! 
+
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'Music')">Music</button>
+  <button class="tablinks" onclick="openCity(event, 'Paintings')">Paintings</button>
+  <button class="tablinks" onclick="openCity(event, 'VLOG')">VLOG</button>
+  <button class="tablinks" onclick="openCity(event, 'MyBrother')">My brother</button>
 </div>
 
-<h1 id="music" class="myart-h1"> Music </h1>
-
-<!-- Music covers and travel vlogging -- <a target="_blank" href="https://www.youtube.com/channel/UCU1TMnEt0J1UJZfMW1Gixgg?view_as=subscriber" target="_blank">YouTube</a>.  -->
-
+<!-- Tab content -->
+<div id="Music" class="tabcontent">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3YIDgdMypgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class="space"></div>
 
@@ -29,10 +83,9 @@ author_profile: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wojb-GoQ3sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class="space"></div>
+</div>
 
-
-<br><br>
-<h1 id="paintings" class="myart-h1"> Paintings </h1>
+<div id="Paintings" class="tabcontent">
 
 <div class="paintings_wrapper">
 	<ul>
@@ -44,9 +97,9 @@ author_profile: true
 	</ul>
 </div>
 
-<br><br>
-<h1 id="vlog" class="myart-h1"> Vlog </h1>
+</div>
 
+<div id="VLOG" class="tabcontent">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rL-vTbU-3LA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class="space"></div>
 
@@ -58,9 +111,9 @@ author_profile: true
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/x43VPsXG7WA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class="space"></div> -->
+</div>
 
-<br><br>
-<h1 id="mybrother" class="myart-h1"> My Brother </h1>
+<div id="MyBrother" class="tabcontent">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V50Vk6jXD10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class="space"></div>
@@ -70,3 +123,25 @@ author_profile: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ywc2_rgXRCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class="space"></div>
+
+</div>
+
+<!-- <div class="mini-navigation">
+<a href="#music">Music</a><br> 
+<a href="#paintings">Paintings</a><br>
+<a href="#vlog">Vlog</a><br>
+<a href="#mybrother">My Brother</a>
+</div>
+
+<h1 id="music" class="myart-h1"> Music </h1> -->
+
+<!-- Music covers and travel vlogging -- <a target="_blank" href="https://www.youtube.com/channel/UCU1TMnEt0J1UJZfMW1Gixgg?view_as=subscriber" target="_blank">YouTube</a>.  -->
+
+<!-- <br><br>
+<h1 id="paintings" class="myart-h1"> Paintings </h1>
+
+<br><br>
+<h1 id="vlog" class="myart-h1"> Vlog </h1>
+
+<br><br>
+<h1 id="mybrother" class="myart-h1"> My Brother </h1> -->

@@ -21,13 +21,18 @@ redirect_from:
 
 <span class="small_font">My interest lies at the intesection of 3D computer vision and Robotics. Specifically, I am interested in (1) modeling compact and informative representations of the 3D world and (2) conditioning downstream decision-making and control on these representations through reinforcement learning (RL) to enable embodied agents solve complex tasks (like navigation and manipulation) in the real world.</span>
 
+<h3>Connect</h3>
+<a href="https://twitter.com/NerdNess3195?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
+You can also reach out to me at bipasha dot sen at research dot iiit dot ac dot in. 
+
 <div class="recent_updates">Recent Updates</div>
 
 <ul class="updates">
 	<li><b>JANUARY 2023:</b> I will be attending Google Research Week!</li>
+	<li><b>DECEMBER 2022:</b> Presented INR-V at Vision India, ICVGIP!<a target="_blank" class="tab_paper" href="https://iiitaphyd-my.sharepoint.com/:p:/g/personal/bipasha_sen_research_iiit_ac_in/EY4XFO4EOvtDonHHIxuy-BkBDirnrqLDGOe7V9rd2xJL7g?e=5npSCQ">presentation</a></li>
 	<li><b>OCTOBER 2022:</b><br>INR-V: A Continuous Representation Space for Video-based Generative Tasks accepted at <b>TMLR 2022</b>!</li>
 	<li><b>SEPTEMBER 2022:</b><br>I am grateful to Microsoft Research for awarding me a travel grant of $2000 for <b>WACV 2023</b>!</li>
-	<li><b>AUGUST 2022:</b><br>2 papers accepted at <b>WACV 2023</b>!<br>Gave a tutorial on "Computer Vision challenges in Table-top rearrangement and Planning" at the <a target="_blank" href="https://cvit.iiit.ac.in/summerschool2022/">6<sup>th</sup> Summer School of AI</a>, IIIT-H!<a target="_blank" class="tab_paper" href="blog#ttrp-talk">talk</a></li>
+	<li><b>AUGUST 2022:</b><br>1. 2 papers accepted at <b>WACV 2023</b>!<br>2. Gave a tutorial on "Computer Vision challenges in Table-top rearrangement and Planning" at the <a target="_blank" href="https://cvit.iiit.ac.in/summerschool2022/">6<sup>th</sup> Summer School of AI</a>, IIIT-H!<a target="_blank" class="tab_paper" href="blog#ttrp-talk">talk</a></li>
 	<li><b>JUNE 2022:</b> We are in <a target="_blank" href="https://www.iiit.ac.in/files/media/Sakshi-RRC.jpeg">news</a>!</li>
 	<li><b>APRIL 2022:</b> We came 3<sup>rd</sup> in <a target="_blank" href="http://ocrtoc.org/"><b>ICRA 2022</b> Open Cloud Robot Table Organization Challenge</a>!</li>
 	<li><b>DECEMBER 2021:</b><br>Granted a Provisional Patent on "SYSTEM AND METHOD FOR TRAINING USERS TO LIP READ"!</li>
@@ -37,7 +42,7 @@ redirect_from:
 	<li><b>MARCH 2021:</b> Joined Center for Visual Information Technology as a Research Fellow!</li>
 </ul>
 
-<div class="recent_updates">Selected Research</div>
+<div class="recent_updates">Selected Research in MS</div>
 
 <div class="research-block">
 	<div class="left">
