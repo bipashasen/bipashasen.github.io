@@ -77,6 +77,11 @@ img.main_p_img {
   }
 }
 
+.prize {
+  font-weight: 600!important;
+  text-decoration: none!important;
+}
+
 .page__title {
   margin-top: 0;
   line-height: 1;
@@ -121,7 +126,7 @@ img.main_p_img {
 .sub-title {
   font-size: 13px;
   margin: 6px 0 6px;
-  line-height: 1.4;
+  line-height: 1.6;
 }
 
 #img_cit {
@@ -135,7 +140,7 @@ img.main_p_img {
 
 .research-block {
   text-align: center;
-  margin-bottom:25px;
+  margin-bottom:40px;
 }
 
 .research-text {
@@ -193,9 +198,11 @@ img.main_p_img {
 }
 
 .title {
-    font-size: 15px;
-    font-weight: 500;
-    line-height: 1.3;
+  font-weight: 900;
+  line-height: 1.4;
+  font-size: 14px;
+  font-style: italic;
+  color: #093863;
 }
 
 .win {
@@ -218,18 +225,31 @@ img.main_p_img {
 
 .recent_updates {
   background: #d8e2f4;
-  margin-bottom: 15px;
+  margin-bottom: 30px;
   text-align: center;
   padding: 5px 0;
   font-size: 16px;
+  font-weight: 500;
   color: #272727;
+}
+
+.tab_paper {
+  text-decoration: none!important;
+  color: #f8faff!important;
+  border: 1px solid black;
+  font-family: monospace;
+  padding: 0px 5px 0px;
+  font-size: 12px;
+  background: #206292;
+  margin-left: 4px;
+  display: inline-block;
+  vertical-align: bottom;
 }
 
 .right {
   max-width: 500px;
   display: inline-block;
   vertical-align: middle;
-  height: 200px;
   overflow-y: scroll;
   line-height: 1.04;
   text-align: left;
