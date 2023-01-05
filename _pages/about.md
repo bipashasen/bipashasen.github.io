@@ -24,17 +24,17 @@ redirect_from:
 <div class="recent_updates">Recent Updates</div>
 
 <ul class="updates">
-	<li><b>[ October 2022 ]</b> INR-V: A Continuous Representation Space for Video-based Generative Tasks accepted at <b>TMLR 2022</b>!</li>
-	<li><b>[ September 2022 ]</b> I am grateful to Microsoft Research for awarding me a travel grant of $2000 for <b>WACV 2023</b>!</li>
-	<li><b>[ August 2022 ]</b> 2 papers accepted at <b>WACV 2023</b>!</li>
-	<li><b>[ August 2022 ]</b> Gave a tutorial on "Computer Vision challenges in Table-top rearrangement and Planning" at the <a target="_blank" href="https://cvit.iiit.ac.in/summerschool2022/">6<sup>th</sup> Summer School of AI</a>, IIIT-H! <b><span class="green">(find the talk <a href="blog#ttrp-talk">here</a>)</span></b></li>
-	<li><b>[ June 2022 ]</b> We are in <a target="_blank" href="https://www.iiit.ac.in/files/media/Sakshi-RRC.jpeg">news</a>!</li>
-	<li><b>[ April 2022 ]</b> We came 3<sup>rd</sup> in <a target="_blank" href="http://ocrtoc.org/"><b>ICRA 2022</b> Open Cloud Robot Table Organization Challenge</a>!</li>
-	<li><b>[ December 2021 ]</b> Granted a Provisional Patent on "SYSTEM AND METHOD FOR TRAINING USERS TO LIP READ"!</li>
-	<li><b>[ November 2021 ]</b> Joined Robotics Research Center as a Research Fellow!</li>
-	<li><b>[ August 2021 ]</b> Joined MS by Research at IIIT-H!</li>
-	<li><b>[ June 2021 ]</b> "<a target="_blank" href="https://www.bmvc2021-virtualconference.com/assets/papers/1468.pdf">Personalized One-Shot Lipreading for an ALS Patient</a>" accepted at <b>BMVC 2021</b>!</li>
-	<li><b>[ March 2021 ]</b> Joined Center for Visual Information Technology as a Research Fellow!</li>
+	<li><b>JANUARY 2023:</b> I will be attending Google Research Week!</li>
+	<li><b>OCTOBER 2022:</b><br>INR-V: A Continuous Representation Space for Video-based Generative Tasks accepted at <b>TMLR 2022</b>!</li>
+	<li><b>SEPTEMBER 2022:</b><br>I am grateful to Microsoft Research for awarding me a travel grant of $2000 for <b>WACV 2023</b>!</li>
+	<li><b>AUGUST 2022:</b><br>2 papers accepted at <b>WACV 2023</b>!<br>Gave a tutorial on "Computer Vision challenges in Table-top rearrangement and Planning" at the <a target="_blank" href="https://cvit.iiit.ac.in/summerschool2022/">6<sup>th</sup> Summer School of AI</a>, IIIT-H!<a target="_blank" class="tab_paper" href="blog#ttrp-talk">talk</a></li>
+	<li><b>JUNE 2022:</b> We are in <a target="_blank" href="https://www.iiit.ac.in/files/media/Sakshi-RRC.jpeg">news</a>!</li>
+	<li><b>APRIL 2022:</b> We came 3<sup>rd</sup> in <a target="_blank" href="http://ocrtoc.org/"><b>ICRA 2022</b> Open Cloud Robot Table Organization Challenge</a>!</li>
+	<li><b>DECEMBER 2021:</b><br>Granted a Provisional Patent on "SYSTEM AND METHOD FOR TRAINING USERS TO LIP READ"!</li>
+	<li><b>NOVEMBER 2021:</b> Joined Robotics Research Center as a Research Fellow!</li>
+	<li><b>AUGUST 2021:</b> Joined MS by Research at IIIT-H!</li>
+	<li><b>JUNE 2021:</b> "<a target="_blank" href="https://www.bmvc2021-virtualconference.com/assets/papers/1468.pdf">Personalized One-Shot Lipreading for an ALS Patient</a>" accepted at <b>BMVC 2021</b>!</li>
+	<li><b>MARCH 2021:</b> Joined Center for Visual Information Technology as a Research Fellow!</li>
 </ul>
 
 <div class="recent_updates">Selected Research</div>
