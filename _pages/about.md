@@ -42,7 +42,7 @@ You can also reach out to me at bipasha dot sen at research dot iiit dot ac dot 
 	<li><b>MARCH 2021:</b> Joined Center for Visual Information Technology as a Research Fellow!</li>
 </ul>
 
-<div class="recent_updates">Selected Research in MS</div>
+<div class="recent_updates">Selected Research</div>
 
 <div class="research-block">
 	<div class="left">
