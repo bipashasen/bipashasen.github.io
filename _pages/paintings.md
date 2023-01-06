@@ -40,9 +40,13 @@ author_profile: true
   border: 1px solid #ccc;
   border-top: none;
 }
+
+.red {
+	color: red;
+}
 </style>
 
-Please be patient, takes a few seconds to load the iframes ! 
+<span class="red">Please be patient, takes a few seconds to load the iframes !</span> 
 
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Music')">Music</button>
