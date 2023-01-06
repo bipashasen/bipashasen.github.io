@@ -19,7 +19,7 @@ redirect_from:
 
 <h3>Research Interest</h3>
 
-<span class="small_font">My interest lies at the intesection of 3D computer vision and Robotics. Specifically, I am interested in (1) modeling compact and informative representations of the 3D world and (2) conditioning downstream decision-making and control on these representations through reinforcement learning (RL) to enable embodied agents solve complex tasks (like navigation and manipulation) in the real world.</span>
+<span class="small_font">My interest lies at the intesection of 3D computer vision and Robotics. Specifically, I am interested in designing improved representations of the 3D world that can enable an embodied agent acquire a holistic view of the world. Using this view, the embodied agent can take better control descisions in the downstream tasks, for example manipulation or navigation.  Ultimately, I am excited to see embodied AI become a part of the real-world and seamlessly integrate with the humans!</span>
 
 <h3>Connect</h3>
 <a href="https://twitter.com/NerdNess3195?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
