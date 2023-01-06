@@ -233,14 +233,20 @@ img.main_p_img {
   color: #272727;
 }
 
+.tab_paper:hover, .tab_paper:focus, .tab_paper:focus-within, .tab_paper:active {
+  text-decoration: underline;
+  background: #206292;
+  color: white!important;
+}
+
 .tab_paper {
   text-decoration: none!important;
-  color: #f8faff!important;
+  color:black!important;
   border: 1px solid black;
   font-family: monospace;
   padding: 0px 5px 0px;
   font-size: 12px;
-  background: #206292;
+  background: #d8e3f4;
   margin-left: 4px;
   display: inline-block;
   vertical-align: bottom;
