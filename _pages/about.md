@@ -27,14 +27,15 @@ You can also reach out to me at bipasha dot sen at research dot iiit dot ac dot 
 	<li><span class="updates-month">DECEMBER 2022</span> <span class="updates-content">Presented INR-V at <a target="_blank" href="https://events.iitgn.ac.in/2022/icvgip/vision_india.html">Vision India, Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)</a>!<a target="_blank" class="tab_paper" href="https://iiitaphyd-my.sharepoint.com/:p:/g/personal/bipasha_sen_research_iiit_ac_in/EY4XFO4EOvtDonHHIxuy-BkBDirnrqLDGOe7V9rd2xJL7g?e=5npSCQ">presentation</a></span></li>
 	<li><span class="updates-month">OCTOBER 2022</span> <span class="updates-content">"INR-V: A Continuous Representation Space for Video-based Generative Tasks" accepted at <b>TMLR 2022</b>!</span></li>
 	<li><span class="updates-month">SEPTEMBER 2022</span> <span class="updates-content">I am grateful to Microsoft Research for awarding me a travel grant of $2000 for <b>WACV 2023</b>!</span></li>
-	<li><span class="updates-month">AUGUST 2022</span> <span class="updates-content">1. 2 papers accepted at <b>WACV 2023</b>! <br>2. Gave a tutorial on "Computer Vision challenges in Table-top rearrangement and Planning" at the <a target="_blank" href="https://cvit.iiit.ac.in/summerschool2022/">6<sup>th</sup> Summer School of AI</a>, IIIT-H!<a target="_blank" class="tab_paper" href="blog#ttrp-talk">tutorial</a></span></li>
+	<li><span class="updates-month">AUGUST 2022</span> <span class="updates-content">&#8594; 2 papers accepted at <b>WACV 2023</b>! <br>&#8594; Gave a tutorial on "Computer Vision challenges in Table-top rearrangement and Planning" at the <a target="_blank" href="https://cvit.iiit.ac.in/summerschool2022/">6<sup>th</sup> Summer School of AI</a>, IIIT-H!<a target="_blank" class="tab_paper" href="blog#ttrp-talk">tutorial</a></span></li>
 	<li><span class="updates-month">JUNE 2022</span> <span class="updates-content">We are in <a target="_blank" href="https://www.iiit.ac.in/files/media/Sakshi-RRC.jpeg">news</a>!</span></li>
 	<li><span class="updates-month">APRIL 2022</span> <span class="updates-content">We came 3<sup>rd</sup> in <a target="_blank" href="http://ocrtoc.org/"><b>ICRA 2022</b> Open Cloud Robot Table Organization Challenge</a>!</span></li>
 	<li><span class="updates-month">DECEMBER 2021</span> <span class="updates-content">Granted a Provisional Patent on "SYSTEM AND METHOD FOR TRAINING USERS TO LIP READ"!</span></li>
-	<li><span class="updates-month">NOVEMBER 2021</span> <span class="updates-content">Joined Robotics Research Center as a Research Fellow!</span></li>
+	<li><span class="updates-month">NOVEMBER 2021</span> <span class="updates-content">Joined Robotics Research Center at IIIT-H as a Research Fellow!</span></li>
 	<li><span class="updates-month">AUGUST 2021</span> <span class="updates-content">Joined MS by Research at IIIT-H!</span></li>
 	<li><span class="updates-month">JUNE 2021</span> <span class="updates-content">"Personalized One-Shot Lipreading for an ALS Patient" accepted at <b>BMVC 2021</b>!</span></li>
-	<li><span class="updates-month">MARCH 2021</span> <span class="updates-content">Joined Center for Visual Information Technology as a Research Fellow!</span></li>
+	<li><span class="updates-month">MARCH 2021</span> <span class="updates-content">Joined Center for Visual Information Technology at IIIT-H as a Research Fellow!</span></li>
+	<li><span class="updates-month">SEPTEMBER 2020</span> <span class="updates-content">I received "Spot Award" for "Innovation and Impact" at Microsoft!</span></li>
 </ul>
 
 <div class="recent_updates">Selected Research</div>
@@ -77,7 +78,7 @@ You can also reach out to me at bipasha dot sen at research dot iiit dot ac dot 
 	</div>
 	<div class="right">
 		<div class="title">FaceOff: A Video-to-Video Face Swapping System</div>
-		<div class="sub-title">Aditya Agarwal*, <b>Bipasha Sen*</b>, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar, <i><b>WACV 2023</b></i>,<a target="_blank" class="tab_paper"  href="https://openaccess.thecvf.com/content/WACV2023/html/Agarwal_FaceOff_A_Video-to-Video_Face_Swapping_System_WACV_2023_paper.html">paper</a><a target="_blank" class="tab_paper" href="https://www.youtube.com/watch?v=3TCugwmMjzo&t=2s">video</a> </div>
+		<div class="sub-title">Aditya Agarwal*, <b>Bipasha Sen*</b>, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar, <i><b>WACV 2023</b></i>,<a target="_blank" class="tab_paper"  href="https://openaccess.thecvf.com/content/WACV2023/html/Agarwal_FaceOff_A_Video-to-Video_Face_Swapping_System_WACV_2023_paper.html">project page</a><a target="_blank" class="tab_paper"  href="https://bipashasen.github.io/FaceOff">paper</a><a target="_blank" class="tab_paper" href="https://www.youtube.com/watch?v=3TCugwmMjzo&t=2s">video</a> </div>
 		<span class="research-text">
 		We introduce video-to-video (V2V) face-swapping, a novel task of face-swapping that can preserve (1) the identity and expressions of the source (actor) face video and (2) the background and pose of the target (double) video. We propose FaceOff, a V2V face-swapping system that operates by learning a robust blending operation to merge two face videos following the constraints above. 
 		</span>
