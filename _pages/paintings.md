@@ -52,7 +52,7 @@ author_profile: true
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Music')">Music</button>
   <button class="tablinks" onclick="openCity(event, 'Paintings')">Paintings</button>
-  <button class="tablinks" onclick="openCity(event, 'VLOG')">VLOG</button>
+  <button class="tablinks" onclick="openCity(event, 'Travel')">Travel</button>
   <button class="tablinks" onclick="openCity(event, 'MyBrother')">My brother</button>
 </div>
 
@@ -88,7 +88,7 @@ author_profile: true
 
 </div>
 
-<div id="VLOG" class="tabcontent">
+<div id="Travel" class="tabcontent">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rL-vTbU-3LA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class="space"></div>
 

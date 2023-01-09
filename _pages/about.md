@@ -14,7 +14,7 @@ redirect_from:
 
 <h3>Research Interest</h3>
 
-<span class="small_font">My interest lies at the intersection of <b>3D computer vision and Robotics</b>. Specifically, I am interested in designing improved representations of the 3D world to enable embodied agents to acquire a holistic view of the world. This way, an embodied agent can make better-informed control decisions for achieving a given downstream goal, for example, manipulation or autonomous navigation. <br>&emsp;&emsp;&emsp;Today, most works rely on explicit representation forms like pointclouds or voxel-based representations. But they are limiting in many ways - they are high dimensional, discrete, and, most importantly, incomplete -- they do not sense the underlying structure and only capture explicit values at specific locations. I am more interested in <b>implicit representations</b> of the world and how to improved design task-specific representations. Ultimately, I am excited to see embodied AI become a part of the real world and seamlessly integrate with humans!</span>
+<span class="small_font">My interest lies at the intersection of <b>3D computer vision and Robotics</b>. Specifically, I am interested in designing improved representations of the 3D world to enable embodied agents acquire a holistic view of the world. This way, an agent can make better-informed control decisions for achieving a given downstream goal, for example, manipulation or autonomous navigation. <br>&emsp;&emsp;&emsp;Today, most works rely on explicit representation forms like pointclouds or voxel-based representations. But they are limiting in many ways - they are high dimensional, discrete, and, most importantly, incomplete -- they do not sense the underlying structure and only capture explicit values at specific locations. I am more interested in <b>implicit representations</b> of the world and how to design improved task-specific representations. Ultimately, I am excited to see embodied AI become a part of the real world and seamlessly integrate with humans!</span>
 
 <h3>Connect</h3>
 <a href="https://twitter.com/NerdNess3195?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @NerdNess3195</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
@@ -37,7 +37,7 @@ You can also reach out to me at bipasha dot sen at research dot iiit dot ac dot 
 	<li><span class="updates-month">MARCH 2021</span> <span class="updates-content">Joined Center for Visual Information Technology as a Research Fellow!</span></li>
 </ul>
 
-<div class="recent_updates">Selected Research in MS</div>
+<div class="recent_updates">Selected Research</div>
 
 <div class="research-block">
 	<div class="left">
