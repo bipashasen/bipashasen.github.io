@@ -8,38 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-<span class="small_font">I am a MS by Research student at International Institute of Information Technology, Hyderabad (IIIT-H). I am advised by Professor <a target="_blank" href="https://faculty.iiit.ac.in/~jawahar/">C V Jawahar</a> and Professor <a target="_blank" href="https://vinaypn.github.io/">Vinay Namboodiri</a> at the Center for Visual Information Technology (CVIT) Lab. I am also advised by Professor <a target="_blank" href="https://www.iiit.ac.in/people/faculty/mkrishna/">K. Madhav Krishna</a> and Professor <a target="_blank" href="https://cs.brown.edu/people/ssrinath/">Srinath Sridhar</a> at the Robotics Research Center (RRC). </span>
-
-<span class="small_font">Before IIIT-H, I was a Data Scientist at Microsoft Research & Development, Hyderabad. I led the recommendation and suggestion team for the world's biggest enterprise facing email client - Outlook. These features are used by more than 100 million users per month, my hunch is that you might have seen some of them! <img class="tiny-emoji" with="18px" src="images/grin.svg">
-</span>
-
-<span class="small_font">I am also a musician, I sing and play guitar. I have toured and performed at several places with my previous band, <a target="_blank" href="https://www.facebook.com/AndroMetaBand">Andrometa</a>. I also tried my hands out travel vlogging and YouTubing! My brother is a (really awesome) piano player and has taken over the channel now - find them <a target="_blank" href="https://www.youtube.com/channel/UCU1TMnEt0J1UJZfMW1Gixgg?view_as=subscriber" target="_blank">here!</a>. I also love traveling.</span>
-
-<span class="small_font">In 2018, I travelled solo to 6 countries, 13 states and interviewed 128 independent musicians!</span>
+<span class="small_font">I am a MS by Research student at International Institute of Information Technology, Hyderabad (IIIT-H). I am advised by Professor <a target="_blank" href="https://faculty.iiit.ac.in/~jawahar/">C V Jawahar</a> and Professor <a target="_blank" href="https://vinaypn.github.io/">Vinay Namboodiri</a> at the Center for Visual Information Technology (CVIT) Lab. I am also advised by Professor <a target="_blank" href="https://www.iiit.ac.in/people/faculty/mkrishna/">K. Madhav Krishna</a> and Professor <a target="_blank" href="https://cs.brown.edu/people/ssrinath/">Srinath Sridhar</a> at the Robotics Research Center (RRC). 
+<br>&emsp;&emsp;&emsp;Before IIIT-H, I was a Data Scientist at Microsoft, India. I led the recommendation and suggestion team for the world's biggest enterprise facing email client - Outlook. These features are used by more than 100 million users per month, my hunch is that you might have seen some of them! <img class="tiny-emoji" with="18px" src="images/grin.svg">
+<br>&emsp;&emsp;&emsp;I am also a musician, I sing and play guitar. I have toured and performed at several places with my previous band, <a target="_blank" href="https://www.facebook.com/AndroMetaBand">Andrometa</a>. I also tried my hands out travel vlogging and YouTubing! My brother is a (really awesome) piano player and has taken over the channel now - find them <a target="_blank" href="https://www.youtube.com/channel/UCU1TMnEt0J1UJZfMW1Gixgg?view_as=subscriber" target="_blank">here!</a>. I also love traveling. In 2018, I travelled solo to 6 countries, 13 states and interviewed 128 independent musicians!</span>
 
 <h3>Research Interest</h3>
 
 <span class="small_font">My interest lies at the intersection of <b>3D computer vision and Robotics</b>. Specifically, I am interested in designing improved representations of the 3D world to enable embodied agents to acquire a holistic view of the world. This way, an embodied agent can make better-informed control decisions for achieving a given downstream goal, for example, manipulation or autonomous navigation. <br>&emsp;&emsp;&emsp;Today, most works rely on explicit representation forms like pointclouds or voxel-based representations. But they are limiting in many ways - they are high dimensional, discrete, and, most importantly, incomplete -- they do not sense the underlying structure and only capture explicit values at specific locations. I am more interested in <b>implicit representations</b> of the world and how to improved design task-specific representations. Ultimately, I am excited to see embodied AI become a part of the real world and seamlessly integrate with humans!</span>
 
 <h3>Connect</h3>
-<a href="https://twitter.com/NerdNess3195?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
+<a href="https://twitter.com/NerdNess3195?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @NerdNess3195</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
 You can also reach out to me at bipasha dot sen at research dot iiit dot ac dot in. 
 
 <div class="recent_updates">Recent Updates</div>
 
 <ul class="updates">
-	<li><b>JANUARY 2023:</b> I will be attending <a target="_blank" href="https://sites.google.com/view/researchweek2023/home">Google Research Week</a>!</li>
-	<li><b>DECEMBER 2022:</b> Presented INR-V at <a target="_blank" href="https://events.iitgn.ac.in/2022/icvgip/vision_india.html">Vision India, Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)</a>!<a target="_blank" class="tab_paper" href="https://iiitaphyd-my.sharepoint.com/:p:/g/personal/bipasha_sen_research_iiit_ac_in/EY4XFO4EOvtDonHHIxuy-BkBDirnrqLDGOe7V9rd2xJL7g?e=5npSCQ">presentation</a></li>
-	<li><b>OCTOBER 2022:</b><br>INR-V: A Continuous Representation Space for Video-based Generative Tasks accepted at <b>TMLR 2022</b>!</li>
-	<li><b>SEPTEMBER 2022:</b><br>I am grateful to Microsoft Research for awarding me a travel grant of $2000 for <b>WACV 2023</b>!</li>
-	<li><b>AUGUST 2022:</b><br>1. 2 papers accepted at <b>WACV 2023</b>!<br>2. Gave a tutorial on "Computer Vision challenges in Table-top rearrangement and Planning" at the <a target="_blank" href="https://cvit.iiit.ac.in/summerschool2022/">6<sup>th</sup> Summer School of AI</a>, IIIT-H!<a target="_blank" class="tab_paper" href="blog#ttrp-talk">talk</a></li>
-	<li><b>JUNE 2022:</b> We are in <a target="_blank" href="https://www.iiit.ac.in/files/media/Sakshi-RRC.jpeg">news</a>!</li>
-	<li><b>APRIL 2022:</b> We came 3<sup>rd</sup> in <a target="_blank" href="http://ocrtoc.org/"><b>ICRA 2022</b> Open Cloud Robot Table Organization Challenge</a>!</li>
-	<li><b>DECEMBER 2021:</b><br>Granted a Provisional Patent on "SYSTEM AND METHOD FOR TRAINING USERS TO LIP READ"!</li>
-	<li><b>NOVEMBER 2021:</b> Joined Robotics Research Center as a Research Fellow!</li>
-	<li><b>AUGUST 2021:</b> Joined MS by Research at IIIT-H!</li>
-	<li><b>JUNE 2021:</b> "<a target="_blank" href="https://www.bmvc2021-virtualconference.com/assets/papers/1468.pdf">Personalized One-Shot Lipreading for an ALS Patient</a>" accepted at <b>BMVC 2021</b>!</li>
-	<li><b>MARCH 2021:</b> Joined Center for Visual Information Technology as a Research Fellow!</li>
+	<li><span class="updates-month">JANUARY 2023</span> <span class="updates-content">I will be attending <a target="_blank" href="https://sites.google.com/view/researchweek2023/home">Google Research Week</a>!</span></li>
+	<li><span class="updates-month">DECEMBER 2022</span> <span class="updates-content">Presented INR-V at <a target="_blank" href="https://events.iitgn.ac.in/2022/icvgip/vision_india.html">Vision India, Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)</a>!<a target="_blank" class="tab_paper" href="https://iiitaphyd-my.sharepoint.com/:p:/g/personal/bipasha_sen_research_iiit_ac_in/EY4XFO4EOvtDonHHIxuy-BkBDirnrqLDGOe7V9rd2xJL7g?e=5npSCQ">presentation</a></span></li>
+	<li><span class="updates-month">OCTOBER 2022</span> <span class="updates-content">"INR-V: A Continuous Representation Space for Video-based Generative Tasks" accepted at <b>TMLR 2022</b>!</span></li>
+	<li><span class="updates-month">SEPTEMBER 2022</span> <span class="updates-content">I am grateful to Microsoft Research for awarding me a travel grant of $2000 for <b>WACV 2023</b>!</span></li>
+	<li><span class="updates-month">AUGUST 2022</span> <span class="updates-content">1. 2 papers accepted at <b>WACV 2023</b>! <br>2. Gave a tutorial on "Computer Vision challenges in Table-top rearrangement and Planning" at the <a target="_blank" href="https://cvit.iiit.ac.in/summerschool2022/">6<sup>th</sup> Summer School of AI</a>, IIIT-H!<a target="_blank" class="tab_paper" href="blog#ttrp-talk">tutorial</a></span></li>
+	<li><span class="updates-month">JUNE 2022</span> <span class="updates-content">We are in <a target="_blank" href="https://www.iiit.ac.in/files/media/Sakshi-RRC.jpeg">news</a>!</span></li>
+	<li><span class="updates-month">APRIL 2022</span> <span class="updates-content">We came 3<sup>rd</sup> in <a target="_blank" href="http://ocrtoc.org/"><b>ICRA 2022</b> Open Cloud Robot Table Organization Challenge</a>!</span></li>
+	<li><span class="updates-month">DECEMBER 2021</span> <span class="updates-content">Granted a Provisional Patent on "SYSTEM AND METHOD FOR TRAINING USERS TO LIP READ"!</span></li>
+	<li><span class="updates-month">NOVEMBER 2021</span> <span class="updates-content">Joined Robotics Research Center as a Research Fellow!</span></li>
+	<li><span class="updates-month">AUGUST 2021</span> <span class="updates-content">Joined MS by Research at IIIT-H!</span></li>
+	<li><span class="updates-month">JUNE 2021</span> <span class="updates-content">"Personalized One-Shot Lipreading for an ALS Patient" accepted at <b>BMVC 2021</b>!</span></li>
+	<li><span class="updates-month">MARCH 2021</span> <span class="updates-content">Joined Center for Visual Information Technology as a Research Fellow!</span></li>
 </ul>
 
 <div class="recent_updates">Selected Research in MS</div>
@@ -114,7 +109,7 @@ You can also reach out to me at bipasha dot sen at research dot iiit dot ac dot 
 	<div class="right">
 		<div class="title">Approaches and Challenges in Robotic Perception for Table-top Rearrangement and Planning</div>
 		<div class="sub-title">Aditya Agarwal*, <b>Bipasha Sen</b>*, Shankara Narayanan V*, Vishal Reddy Mandadi*, Brojeshwar Bhowmick, K Madhava Krishna, <i><b>Arxiv 2022</b></i>,<a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2205.04090">paper</a><a target="_blank" class="tab_paper" href="https://youtu.be/GrOXEmwzxlA">video</a></div>
-		<div class="win"><img src="images/trophy-icon.webp" width="10px">3rd in <a class="prize" href="https://rpal.cse.usf.edu/rgmc_icra2022/">ICRA 2022 Open Cloud Robot Table Organization Challenge</a></div>
+		<div class="win"><img src="images/trophy-icon.webp" width="10px">3rd in <a class="prize" href="https://rpal.cse.usf.edu/rgmc_icra2022/">ICRA 2022 OCRTOC</a></div>
 		<span class="research-text">
 		Table-top Rearrangement and Planning is a challenging problem that relies heavily on an excellent perception stack. We present a comprehensive overview and discuss the different challenges associated with the perception module. This work is a result of our extensive involvement in the ICRA 2022 OCRTOC Challenge.
 		</span>

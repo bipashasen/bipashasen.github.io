@@ -21,6 +21,7 @@ author_profile: true
   padding: 14px 16px;
   transition: 0.3s;
   font-size: 17px;
+  border-right: 1px solid #ddd;
 }
 
 /* Change background color of buttons on hover */
