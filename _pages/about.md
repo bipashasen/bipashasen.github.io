@@ -23,19 +23,19 @@ You can also reach out to me at bipasha dot sen at research dot iiit dot ac dot 
 <div class="recent_updates">Recent Updates</div>
 
 <ul class="updates">
-	<li><span class="updates-month">JANUARY 2023</span> <span class="updates-content">I will be attending <a target="_blank" href="https://sites.google.com/view/researchweek2023/home">Google Research Week</a>!</span></li>
-	<li><span class="updates-month">DECEMBER 2022</span> <span class="updates-content">Presented INR-V at <a target="_blank" href="https://events.iitgn.ac.in/2022/icvgip/vision_india.html">Vision India, Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)</a>!<a target="_blank" class="tab_paper" href="https://iiitaphyd-my.sharepoint.com/:p:/g/personal/bipasha_sen_research_iiit_ac_in/EY4XFO4EOvtDonHHIxuy-BkBDirnrqLDGOe7V9rd2xJL7g?e=5npSCQ">presentation</a></span></li>
-	<li><span class="updates-month">OCTOBER 2022</span> <span class="updates-content">"INR-V: A Continuous Representation Space for Video-based Generative Tasks" accepted at <b>TMLR 2022</b>!</span></li>
-	<li><span class="updates-month">SEPTEMBER 2022</span> <span class="updates-content">I am grateful to Microsoft Research for awarding me a travel grant of $2000 for <b>WACV 2023</b>!</span></li>
-	<li><span class="updates-month">AUGUST 2022</span> <span class="updates-content">&#8594; 2 papers accepted at <b>WACV 2023</b>! <br>&#8594; Gave a tutorial on "Computer Vision challenges in Table-top rearrangement and Planning" at the <a target="_blank" href="https://cvit.iiit.ac.in/summerschool2022/">6<sup>th</sup> Summer School of AI</a>, IIIT-H!<a target="_blank" class="tab_paper" href="blog#ttrp-talk">tutorial</a></span></li>
-	<li><span class="updates-month">JUNE 2022</span> <span class="updates-content">We are in <a target="_blank" href="https://www.iiit.ac.in/files/media/Sakshi-RRC.jpeg">news</a>!</span></li>
-	<li><span class="updates-month">APRIL 2022</span> <span class="updates-content">We came 3<sup>rd</sup> in <a target="_blank" href="http://ocrtoc.org/"><b>ICRA 2022</b> Open Cloud Robot Table Organization Challenge</a>!</span></li>
-	<li><span class="updates-month">DECEMBER 2021</span> <span class="updates-content">Granted a Provisional Patent on "SYSTEM AND METHOD FOR TRAINING USERS TO LIP READ"!</span></li>
-	<li><span class="updates-month">NOVEMBER 2021</span> <span class="updates-content">Joined Robotics Research Center at IIIT-H as a Research Fellow!</span></li>
-	<li><span class="updates-month">AUGUST 2021</span> <span class="updates-content">Joined MS by Research at IIIT-H!</span></li>
-	<li><span class="updates-month">JUNE 2021</span> <span class="updates-content">"Personalized One-Shot Lipreading for an ALS Patient" accepted at <b>BMVC 2021</b>!</span></li>
-	<li><span class="updates-month">MARCH 2021</span> <span class="updates-content">Joined Center for Visual Information Technology at IIIT-H as a Research Fellow!</span></li>
-	<li><span class="updates-month">SEPTEMBER 2020</span> <span class="updates-content">I received "Spot Award" for "Innovation and Impact" at Microsoft!</span></li>
+	<li><span class="updates-month">JAN '23</span> <span class="updates-content">I will be attending <a target="_blank" href="https://sites.google.com/view/researchweek2023/home">Google Research Week</a>!</span></li>
+	<li><span class="updates-month">DEC '22</span> <span class="updates-content">Presented INR-V at <a target="_blank" href="https://events.iitgn.ac.in/2022/icvgip/vision_india.html">Vision India, Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)</a>!<a target="_blank" class="tab_paper" href="https://iiitaphyd-my.sharepoint.com/:p:/g/personal/bipasha_sen_research_iiit_ac_in/EY4XFO4EOvtDonHHIxuy-BkBDirnrqLDGOe7V9rd2xJL7g?e=5npSCQ">presentation</a></span></li>
+	<li><span class="updates-month">OCT '22</span> <span class="updates-content">"INR-V: A Continuous Representation Space for Video-based Generative Tasks" accepted at <b>TMLR 2022</b>!</span></li>
+	<li><span class="updates-month">SEP '22</span> <span class="updates-content">I am grateful to Microsoft Research for awarding me a travel grant of $2000 for <b>WACV 2023</b>!</span></li>
+	<li><span class="updates-month">AUG '22</span> <span class="updates-content">&#8594; 2 papers accepted at <b>WACV 2023</b>! <br>&#8594; Gave a tutorial on "Computer Vision challenges in Table-top rearrangement and Planning" at the <a target="_blank" href="https://cvit.iiit.ac.in/summerschool2022/">6<sup>th</sup> Summer School of AI</a>, IIIT-H!<a target="_blank" class="tab_paper" href="blog#ttrp-talk">tutorial</a></span></li>
+	<li><span class="updates-month">JUN '22</span> <span class="updates-content">We are in <a target="_blank" href="https://www.iiit.ac.in/files/media/Sakshi-RRC.jpeg">news</a>!</span></li>
+	<li><span class="updates-month">APR '22</span> <span class="updates-content">We came 3<sup>rd</sup> in <a target="_blank" href="http://ocrtoc.org/"><b>ICRA 2022</b> Open Cloud Robot Table Organization Challenge</a>!</span></li>
+	<li><span class="updates-month">DEC '21</span> <span class="updates-content">Granted a Provisional Patent on "SYSTEM AND METHOD FOR TRAINING USERS TO LIP READ"!</span></li>
+	<li><span class="updates-month">NOV '21</span> <span class="updates-content">Joined Robotics Research Center at IIIT-H as a Research Fellow!</span></li>
+	<li><span class="updates-month">AUG '21</span> <span class="updates-content">Joined MS by Research at IIIT-H!</span></li>
+	<li><span class="updates-month">JUN '21</span> <span class="updates-content">"Personalized One-Shot Lipreading for an ALS Patient" accepted at <b>BMVC 2021</b>!</span></li>
+	<li><span class="updates-month">MAR '21</span> <span class="updates-content">Joined Center for Visual Information Technology at IIIT-H as a Research Fellow!</span></li>
+	<li><span class="updates-month">SEP '20</span> <span class="updates-content">I received "Spot Award" for "Innovation and Impact" at Microsoft!</span></li>
 </ul>
 
 <div class="recent_updates">Selected Research</div>
