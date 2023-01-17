@@ -23,7 +23,7 @@ You can also reach out to me at bipasha dot sen at research dot iiit dot ac dot 
 <div class="recent_updates">Recent Updates</div>
 
 <ul class="updates">
-	<li><span class="updates-month">JAN '23</span> <span class="updates-content">I will be attending <a target="_blank" href="https://sites.google.com/view/researchweek2023/home">Google Research Week</a>!</span></li>
+	<li><span class="updates-month">JAN '23</span> <span class="updates-content">&#8594; I have been shortlisted to attend <a target="_blank" href="https://sites.google.com/view/researchweek2023/home">Google Research Week 2023</a>! <br>&#8594; "SCARP: 3D Shape Completion in ARbitrary Poses for Improved Grasping has been accepted to <b>ICRA 2023</b>!</span></li>
 	<li><span class="updates-month">DEC '22</span> <span class="updates-content">Presented INR-V at <a target="_blank" href="https://events.iitgn.ac.in/2022/icvgip/vision_india.html">Vision India, Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)</a>!<a target="_blank" class="tab_paper" href="https://iiitaphyd-my.sharepoint.com/:p:/g/personal/bipasha_sen_research_iiit_ac_in/EY4XFO4EOvtDonHHIxuy-BkBDirnrqLDGOe7V9rd2xJL7g?e=5npSCQ">presentation</a></span></li>
 	<li><span class="updates-month">OCT '22</span> <span class="updates-content">"INR-V: A Continuous Representation Space for Video-based Generative Tasks" accepted at <b>TMLR 2022</b>!</span></li>
 	<li><span class="updates-month">SEP '22</span> <span class="updates-content">I am grateful to Microsoft Research for awarding me a travel grant of $2000 for <b>WACV 2023</b>!</span></li>
@@ -48,7 +48,7 @@ You can also reach out to me at bipasha dot sen at research dot iiit dot ac dot 
 	</div>
 	<div class="right">
 		<div class="title">SCARP: 3D <b>S</b>hape <b>C</b>ompletion in <b>AR</b>bitrary <b>P</b>oses for Improved Grasping</div>
-		<div class="sub-title"><b>Bipasha Sen*</b>, Aditya Agarwal*, Gaurav Singh*, Brojeshwar Bhowmick, Srinath Sridhar, Madhava Krishna, <i><b>Under Review @ ICRA 2023</b></i>,<a target="_blank" class="tab_paper" href="https://bipashasen.github.io/scarp/">project page</a><a target="_blank" class="tab_paper" href="https://www.youtube.com/watch?v=o2PuRVZ3jJA">video</a></div>
+		<div class="sub-title"><b>Bipasha Sen*</b>, Aditya Agarwal*, Gaurav Singh*, Brojeshwar Bhowmick, Srinath Sridhar, Madhava Krishna, <i><b>ICRA 2023</b></i>,<a target="_blank" class="tab_paper" href="https://bipashasen.github.io/scarp/">project page</a><a target="_blank" class="tab_paper" href="https://www.youtube.com/watch?v=o2PuRVZ3jJA">video</a></div>
 		<span class="research-text">
 		We propose SCARP, a model that performs Shape Completion in ARbitrary Poses. Given a partial pointcloud of an object, SCARP learns a disentangled feature representation of pose and shape by relying on rotationally equivariant pose features and geometric shape features trained using a multi-tasking objective. 
 		</span>
