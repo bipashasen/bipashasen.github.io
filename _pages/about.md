@@ -23,7 +23,7 @@ You can also reach out to me at bipasha dot sen at research dot iiit dot ac dot 
 <div class="recent_updates">Recent Updates</div>
 
 <ul class="updates">
-	<li><span class="updates-month">JAN '23</span> <span class="updates-content">&#8594; I have been shortlisted to attend <a target="_blank" href="https://sites.google.com/view/researchweek2023/home">Google Research Week 2023</a>! <br>&#8594; "SCARP: 3D Shape Completion in ARbitrary Poses for Improved Grasping" has been accepted to <b>ICRA 2023</b>!</span></li>
+	<li><span class="updates-month">JAN '23</span> <span class="updates-content">&#8594; I am attending <a target="_blank" href="https://sites.google.com/view/researchweek2023/home">Google Research Week 2023</a>! <br>&#8594; "SCARP: 3D Shape Completion in ARbitrary Poses for Improved Grasping" has been accepted to <b>ICRA 2023</b>!</span></li>
 	<li><span class="updates-month">DEC '22</span> <span class="updates-content">Presented INR-V at <a target="_blank" href="https://events.iitgn.ac.in/2022/icvgip/vision_india.html">Vision India, Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)</a>!<a target="_blank" class="tab_paper" href="https://iiitaphyd-my.sharepoint.com/:p:/g/personal/bipasha_sen_research_iiit_ac_in/EY4XFO4EOvtDonHHIxuy-BkBDirnrqLDGOe7V9rd2xJL7g?e=5npSCQ">presentation</a></span></li>
 	<li><span class="updates-month">OCT '22</span> <span class="updates-content">"INR-V: A Continuous Representation Space for Video-based Generative Tasks" accepted at <b>TMLR 2022</b>!</span></li>
 	<li><span class="updates-month">SEP '22</span> <span class="updates-content">I am grateful to Microsoft Research for awarding me a travel grant of $2000 for <b>WACV 2023</b>!</span></li>
