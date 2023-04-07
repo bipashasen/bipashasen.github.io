@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<div hidden="hidden">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=P0DmcjPhTVQDSVsO6eLpfLlblpD7aYEdFi8dEehI1TI&cl=ffffff&w=a"></script>
+</div>
+
 <span class="small_font">I am a MS by Research student at International Institute of Information Technology, Hyderabad (IIIT-H). I am advised by Professor <a target="_blank" href="https://faculty.iiit.ac.in/~jawahar/">C V Jawahar</a> and Professor <a target="_blank" href="https://vinaypn.github.io/">Vinay Namboodiri</a> at the Center for Visual Information Technology (CVIT) Lab. I am also advised by Professor <a target="_blank" href="https://www.iiit.ac.in/people/faculty/mkrishna/">K. Madhav Krishna</a> and Professor <a target="_blank" href="https://cs.brown.edu/people/ssrinath/">Srinath Sridhar</a> at the Robotics Research Center (RRC). 
 <br>&emsp;&emsp;&emsp;Before IIIT-H, I was a Data Scientist at Microsoft, India. I led the recommendation and suggestion team for the world's biggest enterprise facing email client - Outlook. These features are used by more than 100 million users per month, my hunch is that you might have seen some of them! <img class="tiny-emoji" with="18px" src="images/grin.svg">
 <br>&emsp;&emsp;&emsp;I am also a musician, I sing and play guitar. I have toured and performed at several places with my previous band, <a target="_blank" href="https://www.facebook.com/AndroMetaBand">Andrometa</a>. I also tried my hands out travel vlogging and YouTubing! My brother is a (really awesome) piano player and has taken over the channel now - find them <a target="_blank" href="https://www.youtube.com/channel/UCU1TMnEt0J1UJZfMW1Gixgg?view_as=subscriber" target="_blank">here!</a>. I also love traveling. In 2018, I travelled solo to 6 countries, 13 states and interviewed 128 independent musicians!</span>
