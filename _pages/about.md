@@ -12,51 +12,28 @@ redirect_from:
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=P0DmcjPhTVQDSVsO6eLpfLlblpD7aYEdFi8dEehI1TI&cl=ffffff&w=a"></script>
 </div>
 
-<span class="small_font">I am a MS by Research student at International Institute of Information Technology, Hyderabad (IIIT-H). I am advised by Professor <a target="_blank" href="https://faculty.iiit.ac.in/~jawahar/">C V Jawahar</a> and Professor <a target="_blank" href="https://vinaypn.github.io/">Vinay Namboodiri</a> at the Center for Visual Information Technology (CVIT) Lab. I am also advised by Professor <a target="_blank" href="https://www.iiit.ac.in/people/faculty/mkrishna/">K. Madhav Krishna</a> and Professor <a target="_blank" href="https://cs.brown.edu/people/ssrinath/">Srinath Sridhar</a> at the Robotics Research Center (RRC). 
+<span class="small_font">I am a MS by Research student at International Institute of Information Technology, Hyderabad (IIIT-H). I am advised by Prof. <a target="_blank" href="https://faculty.iiit.ac.in/~jawahar/">C V Jawahar</a> and <a target="_blank" href="https://vinaypn.github.io/">Vinay Namboodiri</a> at the <a target="_blank" href="https://cvit.iiit.ac.in/">CVIT</a> Lab and by Prof. <a target="_blank" href="https://www.iiit.ac.in/people/faculty/mkrishna/">K. Madhav Krishna</a> and <a target="_blank" href="https://cs.brown.edu/people/ssrinath/">Srinath Sridhar</a> at <a target="_blank" href="https://robotics.iiit.ac.in/">RRC</a>. I am also currently interning at Mila, <a target="_blank" href="https://montrealrobotics.ca/">REAL</a> lab under Prof. <a target="_blank" href="http://liampaull.ca/">Liam Paull</a>.
 <br>&emsp;&emsp;&emsp;Before IIIT-H, I was a Data Scientist at Microsoft, India. I led the recommendation and suggestion team for the world's biggest enterprise facing email client - Outlook. These features are used by more than 100 million users per month, my hunch is that you might have seen some of them! <img class="tiny-emoji" with="18px" src="images/grin.svg">
-<br>&emsp;&emsp;&emsp;I am also a musician, I sing and play guitar. I have toured and performed at several places with my previous band, <a target="_blank" href="https://www.facebook.com/AndroMetaBand">Andrometa</a>. I also tried my hands out travel vlogging and YouTubing! My brother is a (really awesome) piano player and has taken over the channel now - find them <a target="_blank" href="https://www.youtube.com/channel/UCU1TMnEt0J1UJZfMW1Gixgg?view_as=subscriber" target="_blank">here!</a>. I also love traveling. In 2018, I travelled solo to 6 countries, 13 states and interviewed 128 independent musicians!</span>
+<br>&emsp;&emsp;&emsp;<b>Creative Outlet.</b> I am also a musician, I sing and play guitar. I have toured and performed at several places with my previous band, <a target="_blank" href="https://www.facebook.com/AndroMetaBand">Andrometa</a>. I also LOVE traveling and used to create travel vlog and music covers on YouTube! My <b>brother</b> is an amazing pianist and has taken over the channel now: <a target="_blank" href="https://www.youtube.com/channel/UCU1TMnEt0J1UJZfMW1Gixgg?view_as=subscriber" target="_blank">Insen: Outdoor Pianist</a>. 
 
 <h3>Research Interest</h3>
 
 <span class="small_font">My interest lies at the intersection of <b>3D computer vision and Robotics</b>. Specifically, I am interested in designing improved representations of the 3D world to enable embodied agents acquire a holistic view of the world. This way, an agent can make better-informed control decisions for achieving a given downstream goal, for example, manipulation or autonomous navigation. <br>&emsp;&emsp;&emsp;Today, most works rely on explicit representation forms like pointclouds or voxel-based representations. But they are limiting in many ways - they are high dimensional, discrete, and, most importantly, incomplete -- they do not sense the underlying structure and only capture explicit values at specific locations. I am more interested in <b>implicit representations</b> of the world and how to design improved task-specific representations. Ultimately, I am excited to see embodied AI become a part of the real world and seamlessly integrate with humans!</span>
 
-<h3>Connect</h3>
-<a href="https://twitter.com/NerdNess3195?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @NerdNess3195</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
-You can also reach out to me at bipasha dot sen at research dot iiit dot ac dot in. 
-
-<div class="recent_updates">Recent Updates</div>
-
-<ul class="updates">
-	<li><span class="updates-month">JAN '23</span> <span class="updates-content">"SCARP: 3D Shape Completion in ARbitrary Poses for Improved Grasping" accepted at <b>ICRA 2023</b>!</span></li>
-	<li><span class="updates-month">JAN '23</span> <span class="updates-content">I am attending <a target="_blank" href="https://sites.google.com/view/researchweek2023/home">Google Research Week 2023</a>!</span></li>
-	<li><span class="updates-month">DEC '22</span> <span class="updates-content">Presented INR-V at <a target="_blank" href="https://events.iitgn.ac.in/2022/icvgip/vision_india.html">Vision India, Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)</a>!<a target="_blank" class="tab_paper" href="https://iiitaphyd-my.sharepoint.com/:p:/g/personal/bipasha_sen_research_iiit_ac_in/EY4XFO4EOvtDonHHIxuy-BkByk__QkP8H8WmSK21oVZhkg?e=9JeBj2">presented slides</a></span></li>
-	<li><span class="updates-month">OCT '22</span> <span class="updates-content">"INR-V: A Continuous Representation Space for Video-based Generative Tasks" accepted at <b>TMLR 2022</b>!</span></li>
-	<li><span class="updates-month">SEP '22</span> <span class="updates-content">I am grateful to <b>Microsoft Research</b> for awarding me a <b>travel grant</b> of $2000 for <b>WACV 2023</b>!</span></li>
-	<li><span class="updates-month">AUG '22</span> <span class="updates-content">2 papers accepted at <b>WACV 2023</b>!</span></li>
-	<li><span class="updates-month">AUG '22</span> <span class="updates-content">Gave a tutorial on "Computer Vision challenges in Table-top rearrangement and Planning" at the <a target="_blank" href="https://cvit.iiit.ac.in/summerschool2022/">6<sup>th</sup> Summer School of AI</a>, IIIT-H!<a target="_blank" class="tab_paper" href="blog#ttrp-talk">tutorial video</a></span></li>
-	<li><span class="updates-month">JUN '22</span> <span class="updates-content">We are in <a target="_blank" href="https://www.iiit.ac.in/files/media/Sakshi-RRC.jpeg">news</a>!</span></li>
-	<li><span class="updates-month">APR '22</span> <span class="updates-content">We came 3<sup>rd</sup> in <a target="_blank" href="http://ocrtoc.org/"><b>ICRA 2022</b> Open Cloud Robot Table Organization Challenge</a>!</span></li>
-	<li><span class="updates-month">DEC '21</span> <span class="updates-content">Granted a Provisional Patent on "SYSTEM AND METHOD FOR TRAINING USERS TO LIP READ"!</span></li>
-	<li><span class="updates-month">NOV '21</span> <span class="updates-content">Joined Robotics Research Center at IIIT-H as a Research Fellow!</span></li>
-	<li><span class="updates-month">AUG '21</span> <span class="updates-content">Joined MS by Research at IIIT-H!</span></li>
-	<li><span class="updates-month">JUN '21</span> <span class="updates-content">"Personalized One-Shot Lipreading for an ALS Patient" accepted at <b>BMVC 2021</b>!</span></li>
-	<li><span class="updates-month">MAR '21</span> <span class="updates-content">Joined Center for Visual Information Technology at IIIT-H as a Research Fellow!</span></li>
-	<li><span class="updates-month">SEP '20</span> <span class="updates-content">I received "Spot Award" for "Innovation and Impact" at Microsoft!</span></li>
-</ul>
-
 <div class="recent_updates">Selected Research</div>
+<span style="font-size:14px">*Equal Authors / <span class="highlight">Highlighted Papers</span></span>
 
-<div class="research-block">
+<div class="research-block highlight">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/teasers/scarp_banner.gif">
+			<img src="/images/teasers/hypnerf.gif">
 		</span>
 	</div>
 	<div class="right">
-		<div class="title">SCARP: 3D <b>S</b>hape <b>C</b>ompletion in <b>AR</b>bitrary <b>P</b>oses for Improved Grasping</div>
-		<div class="sub-title"><b>Bipasha Sen*</b>, Aditya Agarwal*, Gaurav Singh*, Brojeshwar Bhowmick, Srinath Sridhar, Madhava Krishna, <i><b>ICRA 2023</b></i>,<a target="_blank" class="tab_paper" href="https://bipashasen.github.io/scarp/">project page</a><a target="_blank" class="tab_paper" href="https://www.youtube.com/watch?v=o2PuRVZ3jJA">video</a></div>
+		<div class="title">HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork</div>
+		<div class="sub-title"><b style="color:#a115a0">Bipasha Sen</b>*, Gaurav Singh*, Aditya Agarwal*, Rohith Agaram, Madhava Krishna, Srinath Sridhar, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2306.06093">paper</a></div>
 		<span class="research-text">
-		We propose SCARP, a model that performs Shape Completion in ARbitrary Poses. Given a partial pointcloud of an object, SCARP learns a disentangled feature representation of pose and shape by relying on rotationally equivariant pose features and geometric shape features trained using a multi-tasking objective. 
+		Learning generalizable NeRF priors over categories of scenes or objects has been challenging due to the high dimensionality of network weight space. To address the limitations of existing work on generalization, multi-view consistency and to improve quality, we propose HyP-NeRF, a latent conditioning method for learning generalizable category-level NeRF priors using hypernetworks. 
 		</span>
 	</div>
 </div>
@@ -64,12 +41,59 @@ You can also reach out to me at bipasha dot sen at research dot iiit dot ac dot 
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
+			<img src="/images/teasers/case2023.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Disentangling Planning and Control for Non-prehensile Tabletop Manipulation</div>
+		<div class="sub-title">Vishal Mandadi, Kallol Saha, Dipanwita Guhathakurta, Mohammad Nomaan Qureshi, Aditya Agarwal, <b style="color:#a115a0">Bipasha Sen</b>,
+Dipanjan Das, Brojeshwar Bhowmick, Arun Kumar Singh, Madhava Krishna, <i><b>CASE 2023</b></i></div>
+		<span class="research-text">
+		Our novel framework disentangles planning and control enabling us to operate in a context- free manner. Our method consists of an A* planner and a low-level RL controller. The low-level RL controller is agnostic of the scene context and A* is idependent of the low-level control and only takes scene context into account.
+		</span>
+	</div>
+</div>
+
+<div class="research-block">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/indie-icmpc.jpg">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Uncovering hidden biases against Indian independent artists in the perception of music quality by Indian
+Audience</div>
+		<div class="sub-title"><b style="color:#a115a0">Bipasha Sen</b>*, Aditya Agarwal*, Vinoo Alluri, <i><b>ICMPC 2023</b></i></div>
+		<span class="research-text">
+		Unlike well-established (W-E) music artists, Indian indie (In-In) music artists are small-scale artists unsigned by major music labels. Consequently, In-In music receives less publicity and resources during music production. Thus, In-In may be perceived to be lower in quality by the Indian audience compared to W-E. In this work, we aim to investigate if the Indian audience's perception of music quality is biased.
+		</span>
+	</div>
+</div>
+
+<div class="research-block highlight">
+	<div class="left">
+		<span class="research-img">
+			<img src="/images/teasers/scarp_banner.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">SCARP: 3D <b>S</b>hape <b>C</b>ompletion in <b>AR</b>bitrary <b>P</b>oses for Improved Grasping</div>
+		<div class="sub-title"><b style="color:#a115a0">Bipasha Sen</b>*, Aditya Agarwal*, Gaurav Singh*, Brojeshwar Bhowmick, Srinath Sridhar, Madhava Krishna, <i><b>ICRA 2023</b></i><a target="_blank" class="tab_paper" href="https://bipashasen.github.io/scarp/">project page</a><a target="_blank" class="tab_paper" href="https://www.youtube.com/watch?v=o2PuRVZ3jJA">video</a></div>
+		<span class="research-text">
+		We propose SCARP, a model that performs Shape Completion in ARbitrary Poses. Given a partial pointcloud of an object, SCARP learns a disentangled feature representation of pose and shape by relying on rotationally equivariant pose features and geometric shape features trained using a multi-tasking objective. 
+		</span>
+	</div>
+</div>
+
+<div class="research-block highlight">
+	<div class="left">
+		<span class="research-img">
 			<img src="/images/teasers/inr-v.gif">
 		</span>
 	</div>
 	<div class="right">
 		<div class="title">INR-V: A Continuous Representation Space for Video-based Generative Tasks</div>
-		<div class="sub-title"><b>Bipasha Sen*</b>, Aditya Agarwal*, Vinay Namboodiri, C V Jawahar, <i><b>TMLR 2022</b></i>,<a target="_blank"  class="tab_paper" href="https://openreview.net/forum?id=aIoEkwc2oB&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR)">OpenReview</a><a target="_blank" class="tab_paper" href="https://skymanaditya1.github.io/INRV/">project page</a><a target="_blank" class="tab_paper" href="https://youtu.be/ViIwnu5vcck">video</a></div>
+		<div class="sub-title"><b style="color:#a115a0">Bipasha Sen</b>*, Aditya Agarwal*, Vinay Namboodiri, C V Jawahar, <i><b>TMLR 2022</b></i><a target="_blank"  class="tab_paper" href="https://openreview.net/forum?id=aIoEkwc2oB&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR)">OpenReview</a><a target="_blank" class="tab_paper" href="https://skymanaditya1.github.io/INRV/">project page</a><a target="_blank" class="tab_paper" href="https://youtu.be/ViIwnu5vcck">video</a></div>
 		<span class="research-text">
 		We propose INR-V, a video representation network that learns a continuous space for video-based generative tasks. INR-V parameterizes videos using implicit neural representations (INRs), a multi-layered perceptron that predicts an RGB value for each input pixel location of the video.
 		</span>
@@ -84,7 +108,7 @@ You can also reach out to me at bipasha dot sen at research dot iiit dot ac dot 
 	</div>
 	<div class="right">
 		<div class="title">FaceOff: A Video-to-Video Face Swapping System</div>
-		<div class="sub-title">Aditya Agarwal*, <b>Bipasha Sen*</b>, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar, <i><b>WACV 2023</b></i>,<a target="_blank" class="tab_paper"  href="https://openaccess.thecvf.com/content/WACV2023/html/Agarwal_FaceOff_A_Video-to-Video_Face_Swapping_System_WACV_2023_paper.html">project page</a><a target="_blank" class="tab_paper"  href="https://bipashasen.github.io/FaceOff">paper</a><a target="_blank" class="tab_paper" href="https://www.youtube.com/watch?v=3TCugwmMjzo&t=2s">video</a> </div>
+		<div class="sub-title">Aditya Agarwal*, <b style="color:#a115a0">Bipasha Sen</b>*, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar, <i><b>WACV 2023</b></i><a target="_blank" class="tab_paper"  href="https://openaccess.thecvf.com/content/WACV2023/html/Agarwal_FaceOff_A_Video-to-Video_Face_Swapping_System_WACV_2023_paper.html">project page</a><a target="_blank" class="tab_paper"  href="https://bipashasen.github.io/FaceOff">paper</a><a target="_blank" class="tab_paper" href="https://www.youtube.com/watch?v=3TCugwmMjzo&t=2s">video</a> </div>
 		<span class="research-text">
 		We introduce video-to-video (V2V) face-swapping, a novel task of face-swapping that can preserve (1) the identity and expressions of the source (actor) face video and (2) the background and pose of the target (double) video. We propose FaceOff, a V2V face-swapping system that operates by learning a robust blending operation to merge two face videos following the constraints above. 
 		</span>
@@ -99,7 +123,7 @@ You can also reach out to me at bipasha dot sen at research dot iiit dot ac dot 
 	</div>
 	<div class="right">
 		<div class="title">Towards MOOCs for Lipreading: Using Synthetic Talking Heads to Train Humans in Lipreading at Scale</div>
-		<div class="sub-title">Aditya Agarwal*, <b>Bipasha Sen*</b>, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar, <i><b>WACV 2023</b></i>,<a target="_blank" class="tab_paper" class="tab_paper" href="https://openaccess.thecvf.com/content/WACV2023/html/Agarwal_Towards_MOOCs_for_Lipreading_Using_Synthetic_Talking_Heads_To_Train_WACV_2023_paper.html">paper</a></div>
+		<div class="sub-title">Aditya Agarwal*, <b style="color:#a115a0">Bipasha Sen</b>*, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar, <i><b>WACV 2023</b></i><a target="_blank" class="tab_paper" class="tab_paper" href="https://openaccess.thecvf.com/content/WACV2023/html/Agarwal_Towards_MOOCs_for_Lipreading_Using_Synthetic_Talking_Heads_To_Train_WACV_2023_paper.html">paper</a></div>
 		<span class="research-text">
 		We propose an end-to-end automated pipeline to a lipreading training platform using state-of-the-art talking heading video generator networks, text-to-speech models, and computer vision techniques. We then perform an extensive human evaluation using carefully thought out lipreading exercises to validate the quality of our designed platform against the existing lipreading platforms. 
 		</span>
@@ -115,7 +139,7 @@ You can also reach out to me at bipasha dot sen at research dot iiit dot ac dot 
 	</div>
 	<div class="right">
 		<div class="title">Approaches and Challenges in Robotic Perception for Table-top Rearrangement and Planning</div>
-		<div class="sub-title">Aditya Agarwal*, <b>Bipasha Sen</b>*, Shankara Narayanan V*, Vishal Reddy Mandadi*, Brojeshwar Bhowmick, K Madhava Krishna, <i><b>Arxiv 2022</b></i>,<a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2205.04090">paper</a><a target="_blank" class="tab_paper" href="https://youtu.be/GrOXEmwzxlA">video</a></div>
+		<div class="sub-title">Aditya Agarwal*, <b style="color:#a115a0">Bipasha Sen</b>*, Shankara Narayanan V*, Vishal Reddy Mandadi*, Brojeshwar Bhowmick, K Madhava Krishna, <i><b>Arxiv 2022</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2205.04090">paper</a><a target="_blank" class="tab_paper" href="https://youtu.be/GrOXEmwzxlA">video</a></div>
 		<div class="win"><img src="images/trophy-icon.webp" width="10px">3rd in <a class="prize" href="https://rpal.cse.usf.edu/rgmc_icra2022/">ICRA 2022 OCRTOC</a></div>
 		<span class="research-text">
 		Table-top Rearrangement and Planning is a challenging problem that relies heavily on an excellent perception stack. We present a comprehensive overview and discuss the different challenges associated with the perception module. This work is a result of our extensive involvement in the ICRA 2022 OCRTOC Challenge.
@@ -131,7 +155,7 @@ You can also reach out to me at bipasha dot sen at research dot iiit dot ac dot 
 	</div>
 	<div class="right">
 		<div class="title">Personalized One-Shot Lipreading for an ALS Patient</div>
-		<div class="sub-title"><b>Bipasha Sen</b>*, Aditya Agarwal*, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar, <i><b>BMVC 2021</b></i>,<a class="tab_paper" target="_blank" href="https://www.bmvc2021-virtualconference.com/assets/papers/1468.pdf">paper</a><a target="_blank"  class="tab_paper" href="https://youtu.be/_famGVaem-8">video</a><a target="_blank"  class="tab_paper" href="http://bhaasha.iiit.ac.in/lipwav">portal</a></div>
+		<div class="sub-title"><b style="color:#a115a0">Bipasha Sen</b>*, Aditya Agarwal*, Rudrabha Mukhopadhyay, Vinay Namboodiri, C V Jawahar, <i><b>BMVC 2021</b></i><a class="tab_paper" target="_blank" href="https://www.bmvc2021-virtualconference.com/assets/papers/1468.pdf">paper</a><a target="_blank"  class="tab_paper" href="https://youtu.be/_famGVaem-8">video</a><a target="_blank"  class="tab_paper" href="http://bhaasha.iiit.ac.in/lipwav">portal</a></div>
 		<span class="research-text">
 		We propose a personalized network to lipread an ALS patient using only one-shot examples. Our approach significantly improves and achieves high top-5accuracy with 83.2% accuracy compared to 62.6% achieved by comparable methods for the patient. Apart from evaluating our approach on the ALS patient, we also extend it to people with hearing impairment relying extensively on lip movements to communicate.
 		</span>

@@ -141,9 +141,15 @@ img.main_p_img {
   list-style: none!important;
 }
 
+.highlight {
+  background: #ffffcb;
+}
+
 .research-block {
   text-align: center;
-  margin-bottom: 40px;
+  padding: 18px 0;
+  margin-bottom: 4px;
+  border-radius: 5px;
 }
 
 .research-text {
@@ -227,7 +233,7 @@ img.main_p_img {
 }
 
 .recent_updates {
-  background: #d8e2f4;
+  background: #dce8f1;
   margin-bottom: 15px;
   text-align: center;
   padding: 5px 0;
