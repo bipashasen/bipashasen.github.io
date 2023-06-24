@@ -2,6 +2,9 @@
 main:
   - title: "Updates"
     url: /updates/
+    
+  - title: "Blog"
+    url: /blog/
 
   - title: "My Art"
     url: /myart/
