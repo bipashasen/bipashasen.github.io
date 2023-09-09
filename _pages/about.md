@@ -78,7 +78,7 @@ Audience</div>
 	</div>
 	<div class="right">
 		<div class="title">SCARP: 3D <b>S</b>hape <b>C</b>ompletion in <b>AR</b>bitrary <b>P</b>oses for Improved Grasping</div>
-		<div class="sub-title"><b style="color:#a115a0">Bipasha Sen</b>*, Aditya Agarwal*, Gaurav Singh*, Brojeshwar Bhowmick, Srinath Sridhar, Madhava Krishna, <i><b>ICRA 2023</b></i><a target="_blank" class="tab_paper" href="https://bipashasen.github.io/scarp/">project page</a><a target="_blank" class="tab_paper" href="https://www.youtube.com/watch?v=o2PuRVZ3jJA">video</a></div>
+		<div class="sub-title"><b style="color:#a115a0">Bipasha Sen</b>*, Aditya Agarwal*, Gaurav Singh*, Brojeshwar Bhowmick, Srinath Sridhar, Madhava Krishna, <i><b>ICRA 2023, RSS-W 2023</b></i><a target="_blank" class="tab_paper" href="https://bipashasen.github.io/scarp/">project page</a><a target="_blank" class="tab_paper" href="https://www.youtube.com/watch?v=o2PuRVZ3jJA">video</a></div>
 		<span class="research-text">
 		We propose SCARP, a model that performs Shape Completion in ARbitrary Poses. Given a partial pointcloud of an object, SCARP learns a disentangled feature representation of pose and shape by relying on rotationally equivariant pose features and geometric shape features trained using a multi-tasking objective. 
 		</span>
