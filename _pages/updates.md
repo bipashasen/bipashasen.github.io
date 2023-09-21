@@ -6,7 +6,7 @@ redirect_from:
   - /updates.html
 ---
 <ul style="margin-top:-3px" class="updates">
-	<li><span class="updates-month">SEP '23</span> <span class="updates-content">"HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork" accepted for presentation at <b>NeurIPS 2023</b>!</span></li>
+	<li><span class="updates-month">SEP '23</span> <span class="updates-content">"HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork" accepted at <b>NeurIPS 2023</b>!</span></li>
 	<li><span class="updates-month">SEP '23</span> <span class="updates-content">Completed my internship at <b>Mila</b> and started my <b>Ph.D. at MIT</b>!</span></li>
 	<li><span class="updates-month">JULY '23</span> <span class="updates-content">"SCARP: 3D Shape Completion in ARbitrary Poses for Improved Grasping" accepted for presentation at <b>RSS Workshop 2023</b><a target="_blank" href="https://mit-spark.github.io/robotRepresentations-RSS2023/"><img src="/images/link.png" width=18px height=18px style="margin: -7px 5px 0 5px;"></a>!</span></li>
 	<li><span class="updates-month">JUN '23</span> <span class="updates-content">"Disentangling Planning and Control for Non-prehensile Tabletop Manipulation" accepted at <b>CASE 2023</b>!</span></li>
