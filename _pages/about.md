@@ -31,7 +31,7 @@ redirect_from:
 	</div>
 	<div class="right">
 		<div class="title">ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning</div>
-		<div class="sub-title">Qiao Gu, Ali Kuwajerwala, Sacha Morin, Krishna Murthy Jatavallabhula, <b style="color:#a115a0">Bipasha Sen</b>, Aditya Agarwal, Kirsty Ellis, Celso Miguel de Melo, Corban Rivera, William Paul, Rama Chellappa, Chuang Gan, Joshua B. Tenenbaum, Antonio Torralba, Florian Shkurti, Liam Paull, <i><b>preprint</b></i></div>
+		<div class="sub-title">Qiao Gu*, Ali Kuwajerwala*, Sacha Morin*, Krishna Murthy Jatavallabhula*, <b style="color:#a115a0">Bipasha Sen</b>, Aditya Agarwal, Kirsty Ellis, Celso Miguel de Melo, Corban Rivera, William Paul, Rama Chellappa, Chuang Gan, Joshua B. Tenenbaum, Antonio Torralba, Florian Shkurti, Liam Paull, <i><b>preprint</b></i></div>
 		<span class="research-text">
 		For robots to perform a wide variety of tasks, they require a 3D representation of the world that is semantically rich, yet compact and efficient for task-driven perception and planning. ConceptGraphs is an open-vocabulary graph-structured representation for 3D scenes that generalize to novel semantic classes, without the need to collect large 3D datasets or finetune models.
 		</span>
@@ -76,7 +76,7 @@ redirect_from:
 	</div>
 	<div class="right">
 		<div class="title">Disentangling Planning and Control for Non-prehensile Tabletop Manipulation</div>
-		<div class="sub-title">Vishal Mandadi, Kallol Saha, Dipanwita Guhathakurta, Mohammad Nomaan Qureshi, Aditya Agarwal, <b style="color:#a115a0">Bipasha Sen</b>,
+		<div class="sub-title">Vishal Mandadi, Kallol Saha, Dipanwita Guhathakurta, Mohammad Nomaan Qureshi, Aditya Agarwal, <b style="color:#a115a0">Bipasha Sen (in advising capacity)</b>,
 Dipanjan Das, Brojeshwar Bhowmick, Arun Kumar Singh, Madhava Krishna, <i><b>CASE 2023</b></i></div>
 		<span class="research-text">
 		Our novel framework disentangles planning and control enabling us to operate in a context- free manner. Our method consists of an A* planner and a low-level RL controller. The low-level RL controller is agnostic of the scene context and A* is idependent of the low-level control and only takes scene context into account.
