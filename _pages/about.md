@@ -26,6 +26,21 @@ redirect_from:
 <div class="research-block highlight">
 	<div class="left">
 		<span class="research-img">
+			<img src="/images/teasers/edmp.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">EDPM: Ensemble-of-costs-guided Diffusion for Motion Planning</div>
+		<div class="sub-title"><b style="color:#a115a0">Kallol Saha*, Vishal Mandadi*, Jayaram Reddy*, Ajit Srikanth, Aditya Agarwal, <b style="color:#a115a0">Bipasha Sen</b>, Arun Singh, Madhava Krishna, <i><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://arxiv.org/pdf/2309.11414.pdf">ArXiv</a></div>
+		<span class="research-text">
+		EDMP combines the strength of classical planning and deep learning by leveraging a diffusion policy to learn a prior over kinematically valid trajectories and guide it directly at the time of inference using scene-specific costs such as "collision-cost". Instead of using a single-cost, we propose using multiple-cost functions (ensemble-of-cost-guidance) to capture variations across scenes, thereby generalizing to diverse scenes.
+		</span>
+	</div>
+</div>
+
+<div class="research-block highlight">
+	<div class="left">
+		<span class="research-img">
 			<img src="/images/teasers/hypnerf.gif">
 		</span>
 	</div>
