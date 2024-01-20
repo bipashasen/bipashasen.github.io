@@ -121,7 +121,7 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: $type-size-5;
 }
 
@@ -138,7 +138,7 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $sans-serif;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
   z-index: 10;
   position: relative;
   cursor: pointer;

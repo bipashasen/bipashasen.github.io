@@ -22,6 +22,7 @@ author_profile: true
   transition: 0.3s;
   font-size: 17px;
   border-right: 1px solid #ddd;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
 }
 
 /* Change background color of buttons on hover */
