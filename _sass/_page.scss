@@ -142,7 +142,7 @@ img.main_p_img {
 }
 
 .highlight {
-  background: #ffffcb;
+  background: #ffffe0;
 }
 
 .research-block {
@@ -150,6 +150,7 @@ img.main_p_img {
   padding: 18px 0;
   margin-bottom: 4px;
   border-radius: 5px;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
 }
 
 .research-text {
@@ -211,7 +212,7 @@ img.main_p_img {
   line-height: 1.4;
   font-size: 14px;
   font-style: italic;
-  color: #093863;
+  color: #1772d0;
 }
 
 .win {
@@ -233,11 +234,10 @@ img.main_p_img {
 }
 
 .recent_updates {
-  background: #dce8f1;
   margin-bottom: 15px;
   text-align: center;
   padding: 5px 0;
-  font-size: 16px;
+  font-size: 23px;
   font-weight: 500;
   color: #272727;
 }
@@ -267,8 +267,6 @@ img.main_p_img {
 .tab_paper {
   text-decoration: none!important;
   color:black!important;
-  border: 1px solid #839cbf;
-  font-family: monospace;
   padding: 0px 5px 0px;
   font-size: 12px;
   background: #d8e3f4;
@@ -315,6 +313,8 @@ img.main_p_img {
 }
 
 .page__content {
+
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
 
   .paintings {
     margin: 0;
@@ -365,7 +365,7 @@ img.main_p_img {
 
   a {
     text-decoration: underline;
-    color: #0a3d88;
+    color: #1772d0;
 
     &:hover {
       text-decoration: underline;
