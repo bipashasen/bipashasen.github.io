@@ -21,7 +21,7 @@ redirect_from:
 <span class="small_font">My interest lies at the intersection of <b>3D computer vision and Robotics</b>. Specifically, I am interested in designing improved representations of the 3D world to enable embodied agents acquire a holistic view of the world. This way, an agent can make better-informed control decisions for achieving a given downstream goal, for example, manipulation or autonomous navigation. <br>&emsp;&emsp;&emsp;Today, most works rely on explicit representation forms like pointclouds or voxel-based representations. But they are limiting in many ways - they are high dimensional, discrete, and, most importantly, incomplete -- they do not sense the underlying structure and only capture explicit values at specific locations. I am more interested in <b>implicit representations</b> of the world and how to design improved task-specific representations. Ultimately, I am excited to see embodied AI become a part of the real world and seamlessly integrate with humans!</span>
 
 <div class="recent_updates">Selected Research</div>
-<span style="font-size:14px">*Equal Authors / <span class="highlight">Highlighted Papers</span></span>
+<span style="font-size:14px;margin-bottom: -25px;display: block;">*Equal Authors / <span class="highlight">Highlighted Papers</span></span>
 
 <div class="research-block">
 	<div class="left">
