@@ -13,12 +13,16 @@ redirect_from:
 </div>
 
 <span class="small_font">I am a first-year <b>Ph.D. at the CSAIL, MIT</b> advised by Prof. <a target="_blank" href="https://people.csail.mit.edu/pulkitag/">Pulkit Agrawal</a>. I am supported by the <b>Ida Green Fellowship</b>. I am grateful to have worked with some of the best researchers around the world, including Prof. <a target="_blank" href="https://faculty.iiit.ac.in/~jawahar/">C V Jawahar</a>, <a target="_blank" href="https://vinaypn.github.io/">Vinay Namboodiri</a>, <a target="_blank" href="https://www.iiit.ac.in/people/faculty/mkrishna/">K. Madhav Krishna</a>, <a target="_blank" href="https://cs.brown.edu/people/ssrinath/">Srinath Sridhar</a>, <a target="_blank" href="http://liampaull.ca/">Liam Paull</a>, and <a target="_blank" href="http://www.cs.toronto.edu/~florian/">Florian Shkurti</a>.
-<br>&emsp;&emsp;&emsp;I was also a <b>Data Scientist at Microsoft</b>. I led a segment of the recommendation and suggestion team for the world's biggest enterprise-facing email client - Outlook. The product features I worked on are used by more than 100 million users per month!
+<br>&emsp;&emsp;&emsp;<b>Prior Experience.</b> I was also a <b>Data Scientist at Microsoft</b>. I led a segment of the recommendation and suggestion team for the world's biggest enterprise-facing email client - Outlook. The product features I worked on are used by more than 100 million users per month!
 <br>&emsp;&emsp;&emsp;<b>Creative Outlet.</b> I am a musician. I sing and play guitar. I have toured and performed at several places with my previous band, <a target="_blank" href="https://www.facebook.com/AndroMetaBand">Andrometa</a>. I also LOVE traveling and used to create travel vlogs and music covers on YouTube! My <b>brother</b> is an amazing pianist and has taken over the channel now: <a target="_blank" href="https://www.youtube.com/channel/UCU1TMnEt0J1UJZfMW1Gixgg?view_as=subscriber" target="_blank">Insen: Outdoor Pianist</a>. 
 
 <h3>Research Interest</h3>
 
-<span class="small_font">My interest lies at the intersection of <b>3D computer vision and Robotics</b>. Specifically, I am interested in designing improved representations of the 3D world to enable embodied agents acquire a holistic view of the world. This way, an agent can make better-informed control decisions for achieving a given downstream goal, for example, manipulation or autonomous navigation. <br>&emsp;&emsp;&emsp;Today, most works rely on explicit representation forms like pointclouds or voxel-based representations. But they are limiting in many ways - they are high dimensional, discrete, and, most importantly, incomplete -- they do not sense the underlying structure and only capture explicit values at specific locations. I am more interested in <b>implicit representations</b> of the world and how to design improved task-specific representations. Ultimately, I am excited to see embodied AI become a part of the real world and seamlessly integrate with humans!</span>
+<!-- <span class="small_font">My interest lies at the intersection of <b>3D computer vision and Robotics</b>. Specifically, I am interested in designing improved representations of the 3D world to enable embodied agents acquire a holistic view of the world. This way, an agent can make better-informed control decisions for achieving a given downstream goal, for example, manipulation or autonomous navigation. <br>&emsp;&emsp;&emsp;Today, most works rely on explicit representation forms like pointclouds or voxel-based representations. But they are limiting in many ways - they are high dimensional, discrete, and, most importantly, incomplete -- they do not sense the underlying structure and only capture explicit values at specific locations. I am more interested in <b>implicit representations</b> of the world and how to design improved task-specific representations. Ultimately, I am excited to see embodied AI become a part of the real world and seamlessly integrate with humans!</span> -->
+
+<span class="small_font">What drives my research is the idea of seeing robots become a commonplace - a part of our daily lives - imbibed with the ability to interact and manipulate the environment it lives in. In order to build such a generic enough robotic system that can perform most day-to-day tasks, scaling up the data needed to train them is, I believe, the primary challenge that we need to address in robotics. 
+<br>&emsp;&emsp;&emsp;My approach to addressing this is rethinking - (1) the kind of data we should be collecting (i.e. the learning objective), and (2) the method of collecting this data (i.e. scalable hardware). I am building towards the these two directions and hoping to make data collection for robotic manipulation as seemless as possible!
+</span>
 
 <div class="recent_updates">Selected Research</div>
 <span style="font-size:14px;margin-bottom: -25px;display: block;">*Equal Authors / <span class="highlight">Highlighted Papers</span></span>
@@ -31,7 +35,7 @@ redirect_from:
 	</div>
 	<div class="right">
 		<div class="title">ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning</div>
-		<div class="sub-title">Qiao Gu*, Ali Kuwajerwala*, Sacha Morin*, Krishna Murthy Jatavallabhula*, <b style="color:#a115a0">Bipasha Sen</b>, Aditya Agarwal, Kirsty Ellis, Celso Miguel de Melo, Corban Rivera, William Paul, Rama Chellappa, Chuang Gan, Joshua B. Tenenbaum, Antonio Torralba, Florian Shkurti, Liam Paull <i><br><b>preprint</b></i><a target="_blank" class="tab_paper" href="https://concept-graphs.github.io/">project page</a><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2309.16650">ArXiv</a></div>
+		<div class="sub-title">Qiao Gu*, Ali Kuwajerwala*, Sacha Morin*, Krishna Murthy Jatavallabhula*, <b style="color:#a115a0">Bipasha Sen</b>, Aditya Agarwal, Kirsty Ellis, Celso Miguel de Melo, Corban Rivera, William Paul, Rama Chellappa, Chuang Gan, Joshua B. Tenenbaum, Antonio Torralba, Florian Shkurti, Liam Paull <i><br><b>ICRA 2024, CoRL-W 2024</b></i><a target="_blank" class="tab_paper" href="https://concept-graphs.github.io/">project page</a><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2309.16650">ArXiv</a></div>
 		<span class="research-text">
 		For robots to perform a wide variety of tasks, they require a 3D representation of the world that is semantically rich, yet compact and efficient for task-driven perception and planning. ConceptGraphs is an open-vocabulary graph-structured representation for 3D scenes that generalize to novel semantic classes, without the need to collect large 3D datasets or finetune models. 
 		</span>
@@ -46,14 +50,14 @@ redirect_from:
 	</div>
 	<div class="right">
 		<div class="title">EDMP: Ensemble-of-costs-guided Diffusion for Motion Planning</div>
-		<div class="sub-title">Kallol Saha*, Vishal Mandadi*, Jayaram Reddy*, Ajit Srikanth, Aditya Agarwal, <b style="color:#a115a0">Bipasha Sen (in advising capacity)</b>, Arun Singh, Madhava Krishna <i><br><b>CoRL-W 2023</b></i><a target="_blank" class="tab_paper" href="https://ensemble-of-costs-diffusion.github.io/">project page</a><a target="_blank" class="tab_paper" href="https://arxiv.org/pdf/2309.11414.pdf">ArXiv</a></div>
+		<div class="sub-title">Kallol Saha*, Vishal Mandadi*, Jayaram Reddy*, Ajit Srikanth, Aditya Agarwal, <b style="color:#a115a0">Bipasha Sen (in advising capacity)</b>, Arun Singh, Madhava Krishna <br><i><b>ICRA 2024, CoRL-W 2023</b></i><a target="_blank" class="tab_paper" href="https://ensemble-of-costs-diffusion.github.io/">project page</a><a target="_blank" class="tab_paper" href="https://arxiv.org/pdf/2309.11414.pdf">ArXiv</a></div>
 		<span class="research-text">
 		EDMP combines the strength of classical planning and deep learning by leveraging a diffusion policy to learn a prior over kinematically valid trajectories and guide it directly at the time of inference using scene-specific costs such as "collision-cost". Instead of using a single-cost, we propose using multiple-cost functions (ensemble-of-cost-guidance) to capture variations across scenes, thereby generalizing to diverse scenes.
 		</span>
 	</div>
 </div>
 
-<div class="research-block highlight">
+<div class="research-block">
 	<div class="left">
 		<span class="research-img">
 			<img src="/images/teasers/hypnerf.gif">
@@ -67,7 +71,7 @@ redirect_from:
 		</span>
 	</div>
 </div>
-
+<!-- 
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
@@ -82,9 +86,9 @@ Dipanjan Das, Brojeshwar Bhowmick, Arun Kumar Singh, Madhava Krishna <i><br><b>C
 		Our novel framework disentangles planning and control enabling us to operate in a context- free manner. Our method consists of an A* planner and a low-level RL controller. The low-level RL controller is agnostic of the scene context and A* is idependent of the low-level control and only takes scene context into account.
 		</span>
 	</div>
-</div>
+</div> --->
 
-<div class="research-block">
+<!-- <div class="research-block">
 	<div class="left">
 		<span class="research-img">
 			<img src="/images/teasers/indie-icmpc.jpg">
@@ -98,9 +102,9 @@ Audience</div>
 		Unlike well-established (W-E) music artists, Indian indie (In-In) music artists are small-scale artists unsigned by major music labels. Consequently, In-In music receives less publicity and resources during music production. Thus, In-In may be perceived to be lower in quality by the Indian audience compared to W-E. In this work, we aim to investigate if the Indian audience's perception of music quality is biased.
 		</span>
 	</div>
-</div>
+</div> -->
 
-<div class="research-block highlight">
+<div class="research-block">
 	<div class="left">
 		<span class="research-img">
 			<img src="/images/teasers/scarp_banner.gif">
