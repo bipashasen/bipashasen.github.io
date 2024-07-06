@@ -30,6 +30,21 @@ redirect_from:
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
+			<img src="/images/teasers/cgdf.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title">Constrained 6-DoF Grasp Generation on Complex Shapes for Improved Dual-Arm Manipulation</div>
+		<div class="sub-title">Gaurav Singh, Sanket Kalwar, Md Faizal Karim, <b style="color:#a115a0">Bipasha Sen (in advising capacity)</b>, Nagamanikandan Govindan, Srinath Sridhar and K Madhava Krishna, <i><br><b>IROS 2024</b></i><a target="_blank" class="tab_paper" href="https://constrained-grasp-diffusion.github.io/">project page</a><a target="_blank" class="tab_paper" href="https://arxiv.org/abs/2404.04643">ArXiv</a></div>
+		<span class="research-text">
+		CGDF: Constrained Grasp Diffusion Fields is a diffusion-based grasp generative model that generalizes to objects with arbitrary geometries, as well as generates dense grasps on the target regions. CGDF uses a part-guided diffusion approach that enables it to get high sample efficiency in constrained grasping without explicitly training on massive constraint-augmented datasets. CGDF generalizes to stable grasps on complex objects, especially useful for dual-arm manipulation settings.
+		</span>
+	</div>
+</div>
+
+<div class="research-block">
+	<div class="left">
+		<span class="research-img">
 			<img src="/images/teasers/conceptgraphs.gif">
 		</span>
 	</div>

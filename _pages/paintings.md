@@ -8,7 +8,8 @@ author_profile: true
 .tab {
   overflow: hidden;
   border: 1px solid #ccc;
-  background-color: #f1f1f1;
+  background-color: #ffffff;
+  border-radius: 6px;
 }
 
 /* Style the buttons inside the tab */
@@ -39,7 +40,7 @@ author_profile: true
 .tabcontent {
   display: none;
   padding: 6px 12px;
-  border: 1px solid #ccc;
+  /* border: 1px solid #ccc; */
   border-top: none;
 }
 
@@ -48,12 +49,12 @@ author_profile: true
 }
 </style>
 
-<span class="red">Please be patient, takes a few seconds to load the iframes !</span> 
+<span class="red">It takes a few seconds to load the iframes !</span> 
 
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'Music')">Music</button>
   <button class="tablinks" onclick="openCity(event, 'Paintings')">Paintings</button>
-  <button class="tablinks" onclick="openCity(event, 'Travel')">Travel</button>
+  <!-- <button class="tablinks" onclick="openCity(event, 'Travel')">Travel</button> -->
   <button class="tablinks" onclick="openCity(event, 'MyBrother')">My brother</button>
 </div>
 
@@ -89,19 +90,19 @@ author_profile: true
 
 </div>
 
-<div id="Travel" class="tabcontent">
+<!-- <div id="Travel" class="tabcontent">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rL-vTbU-3LA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class="space"></div>
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/mXOKP0770v0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class="space"></div> -->
-
+<!-- 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jfONf3SEbOE?start=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<div class="space"></div>
+<div class="space"></div> -->
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/x43VPsXG7WA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class="space"></div> -->
-</div>
+<!-- </div> -->
 
 <div id="MyBrother" class="tabcontent">
 

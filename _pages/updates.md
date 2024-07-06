@@ -6,6 +6,7 @@ redirect_from:
   - /updates.html
 ---
 <ul style="margin-top:-3px" class="updates">
+	<li><span class="updates-month">JUL '24</span> <span class="updates-content">"Constrained 6-DoF Grasp Generation on Complex Shapes for Improved Dual-Arm Manipulation" accepted at <b>IROS 2024</b>!</span></li>
 	<li><span class="updates-month">JAN '24</span> <span class="updates-content">2 papers accepted at <b>ICRA 2024</b>!</span></li>
 	<li><span class="updates-month">NOV '23</span> <span class="updates-content">Presented "EDMP: Ensemble-of-costs-guided Diffusion for Motion Planning" at <b>CoRL Workshop 2023</b><a target="_blank" href="https://sites.google.com/view/corl2023-prl/home"><img src="/images/link.png" width=18px height=18px style="margin: -7px 5px 0 5px;"></a>!</span></li>
 	<li><span class="updates-month">SEP '23</span> <span class="updates-content">"HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork" accepted at <b>NeurIPS 2023</b>!</span></li>
